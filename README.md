@@ -72,7 +72,7 @@ The simulator ([docs/SIMULATOR.md](docs/SIMULATOR.md)) runs a colony model on 15
 
 ## Data sources
 
-- Weather: MeteoSwiss, SwissMetNet hourly open data (Zurich / Fluntern, Bern / Zollikofen, Engelberg), data.geo.admin.ch. Source: MeteoSwiss.
+- Weather: MeteoSwiss, SwissMetNet hourly open data (Zurich / Fluntern, Bern / Zollikofen, Engelberg), data.geo.admin.ch, licence CC BY (STAC collection `ch.meteoschweiz.ogd-smn`). Source: MeteoSwiss.
 - Real hive-scale weight and beekeeper log: "Research project on field data collection for honey bee colony model evaluation - datasets", Zenodo, doi 10.5281/zenodo.5148318, CC BY 4.0 (hourly weight of 54 colonies, Denmark and Portugal, 2019-2020; derived table committed).
 - Real brood-nest temperature, humidity, weight: "Hive Monitoring (Apis mellifera and Stingless Bees) and Rainfall Data - Federal University of Ceara (UFC) Apiary - Brazil", Zenodo, doi 10.5281/zenodo.20399470, CC BY 4.0.
 - Hive audio: "To bee or not to bee: An annotated dataset for beehive sound recognition", Zenodo, doi 10.5281/zenodo.1321278, CC BY 4.0 (only band-power features are committed).
