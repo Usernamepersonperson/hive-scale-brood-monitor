@@ -1,0 +1,1782 @@
+site,hive,date,eventType,inoutType,inoutQuantity,eventDescription
+2,7,2020-07-09,OUTPUT,Foundation comb,0.128,burr comb removed
+1,6,2019-08-20,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+2,2,2019-07-29,OTHER,,,329 dead bees in front of hive
+4,1,2020-06-19,OUTPUT,Super + 10 frames,5.0,
+1,2,2019-09-09,CLINICAL SIGNS,,,some bees shiny
+2,5,2020-04-23,INPUT,Super + 10 frames,4.9,super added + frames no. 21-30
+1,7,2020-08-13,OTHER,,,452 dead bees in front of hive
+5,4,2020-08-12,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+1,8,2020-07-08,SAMPLE,,,brood sample for pestanalysis
+5,9,2020-05-02,INPUT,Foundation comb,0.44,1 frame of foundation added
+4,2,2020-06-22,SAMPLE,,,Only sample with nectar (no new pollen in the family)
+2,5,2020-06-03,CLINICAL SIGNS,,,no varrora in bottom tray
+5,10,2020-03-26,INPUT,Super + 10 frames,8.0,9 frame honey supper with wax comb
+1,6,2020-09-23,INPUT,Sucrose,0.3,apifonda together with queen shift
+4,5,2019-09-25,CLINICAL SIGNS,,,
+1,3,2020-08-13,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+1,3,2020-05-13,OTHER,,,112 dead bees in front of hive
+2,7,2020-07-09,OTHER,,,hive 7 here is taken in as a replacement for hive 3
+6,2,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+2,7,2020-07-28,OUTPUT,Foundation comb,7.065,one super with frame no. 1
+3,8,2019-08-11,INPUT,Sucrose,14.8,
+1,5,2020-07-27,SAMPLE,,,pollen from comb for ID
+5,4,2019-09-12,SAMPLE,,300.0,Collect bees for disease analysis
+3,5,2019-06-12,QUEEN LOSS,,,
+6,8,2019-12-29,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+3,2,2019-09-26,SAMPLE,,,sample for virus test
+1,2,2019-07-10,CLINICAL SIGNS,,,
+6,13,2020-10-29,INPUT,Sucrose,2.5,Sugar paste
+1,6,2020-04-24,CLINICAL SIGNS,,,no varrora in bottom tray
+3,5,2019-06-12,CLINICAL SIGNS,,,
+1,5,2019-07-11,INPUT,Sucrose,1.25,apifonda
+5,2,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,6,2019-09-18,INPUT,Sucrose,1.0,sucrose added-ApiInvert
+5,10,2019-03-28,QUEEN LOSS,,,Dead queen found in front of the hive
+2,1,2020-08-18,INPUT,Sucrose,5.0,sucrose added-ApiInvert
+2,1,2020-09-21,INPUT,Thymol,1.0,thymol added
+2,5,2019-04-24,INPUT,Super + 10 frames,4.9,super added
+4,1,2020-06-12,INPUT,Queen excluder,0.48,Bee emptier added
+1,4,2019-09-09,OTHER,,,668 dead bees in front of hive
+2,5,2019-06-18,OTHER,,,208 dead bees in front of hive
+1,6,2020-08-10,OTHER,,,suspects robery
+6,5,2019-03-09,OUTPUT,No input-output,32.0,Dead bees in the tray
+1,5,2019-09-06,OUTPUT,Foundation comb,4.0,combs no. 17
+4,5,2019-05-24,INPUT,Super + 10 frames,2.3,
+1,3,2020-09-23,SAMPLE,,,bee sample
+6,5,2019-07-15,INPUT,Food comb,12.2,Add honey supper with honey left from extraction
+1,6,2020-09-23,SAMPLE,,,live bees
+4,1,2020-09-09,INPUT,Thymol,1.0,
+1,1,2020-08-13,SAMPLE,,,pollen sample for pesticide analysis
+5,11,2020-08-24,OUTPUT,No input-output,0.3,feeder
+4,2,2020-09-21,OUTPUT,Queen excluder,0.6,Removed bee emptier
+5,4,2020-01-21,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,11,2020-06-08,SAMPLE,,,
+5,5,2019-11-12,SAMPLE,,,Collect bees for disease analysis
+4,1,2019-05-15,SAMPLE,,,sample for virus test
+5,7,2019-09-27,INPUT,Sucrose,1.0,Sugar paste
+4,11,2020-09-03,SAMPLE,,,Sample of pollen
+1,4,2019-04-25,CLINICAL SIGNS,,,few bees
+5,3,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+2,2,2020-04-28,CLINICAL SIGNS,,,no varrora in bottom tray
+3,5,2019-05-29,CLINICAL SIGNS,,,
+1,1,2020-07-08,CLINICAL SIGNS,,,no varrora in bottom tray
+6,19,2020-05-15,INPUT,Super + 10 frames,7.07,8 frame honey supper with laminated wax
+2,6,2019-05-14,CLINICAL SIGNS,,,on frame 10
+6,2,2019-09-26,OUTPUT,Super + 10 frames,14.1,Remove honey supper with honey left from extraction
+2,4,2020-06-22,INPUT,Empty frame,0.75,3 frames added
+6,3,2019-03-27,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+1,6,2020-04-07,INPUT,Sucrose,0.81,apifonda
+3,1,2019-07-30,CLINICAL SIGNS,,,
+1,3,2019-07-11,INPUT,Queen excluder,1.0,queen excluder added
+5,9,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,6,2019-08-16,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+6,9,2019-07-09,OUTPUT,Honey,30.3,Honey suppers removed for honey collection
+2,2,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+1,8,2019-08-19,INPUT,Thymol,1.0,thymol added
+2,7,2020-08-17,INPUT,Sucrose,4.0,sucrose added-ApiInvert
+4,2,2020-08-07,INPUT,Sucrose,2.5,apifonda
+1,1,2019-04-25,INPUT,Super + 10 frames,4.9,super + 10 frames
+1,6,2020-08-21,INPUT,Thymol,1.0,thymol added
+2,7,2020-07-28,OTHER,,,384 dead bees in front of hive
+6,6,2019-04-13,SAMPLE,,,Collect beebread and nectar samples
+2,2,2020-06-23,OTHER,,,555 dead bees in front of hive
+2,5,2020-04-28,OTHER,,,153 dead bees in front of hive
+2,5,2019-04-24,OTHER,,,97 dead bees in front of hive
+6,9,2020-01-21,CLINICAL SIGNS,,,
+2,1,2020-09-23,OTHER,,,new quen added
+1,3,2019-05-15,OTHER,,,27 dead bees in front of hive
+2,1,2020-07-28,OUTPUT,Foundation comb,0.04,burr comb removed
+5,7,2020-05-22,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,5,2020-06-18,OUTPUT,Foundation comb,0.0634,burr comb removed
+2,4,2020-07-28,OTHER,,,381 dead bees in front of hive
+2,5,2020-08-17,OUTPUT,Foundation comb,6.81,frames 21
+5,10,2020-08-12,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,1,2019-07-08,OUTPUT,Super + 10 frames,4.91,removed super with 10 combs
+3,1,2019-06-28,INPUT,Queen excluder,0.8,
+2,9,2019-05-14,SAMPLE,,,brood sample
+5,8,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+1,5,2020-08-13,SAMPLE,,,honey sample for pesticide analysis
+4,1,2020-05-03,INPUT,Super + 10 frames,5.0,
+2,7,2020-04-22,SAMPLE,,,pollen from comb for ID
+5,2,2019-05-14,INPUT,Live bees,4.0,Queen cells from other colonies
+2,5,2020-08-17,SAMPLE,,,pollen sample for pesticide analysis
+4,3,2019-06-11,OUTPUT,Brood comb,0.017,
+1,4,2019-05-15,SAMPLE,,,sample to test for virus
+5,5,2020-03-23,OUTPUT,Foundation comb,0.5,1 comb frame
+4,12,2020-07-15,OUTPUT,Super + 10 frames,5.0,
+5,10,2020-05-04,INPUT,No input-output,0.8,Honey + 0.3kg from feeder
+4,1,2019-11-01,OUTPUT,Sucrose,2.7,Removed super and leftover sucrose
+6,2,2019-11-08,SAMPLE,,,Collect bees for disease analysis
+3,1,2019-07-31,SAMPLE,,,
+5,10,2019-12-30,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+3,3,2019-04-03,SAMPLE,,,Nosema test
+6,1,2019-10-10,OUTPUT,No input-output,5.9,Remove extra box from treatment
+4,6,2020-08-24,SAMPLE,,,Sample for varroa
+5,10,2020-01-21,INPUT,Sucrose,1.0,Sugar paste
+4,1,2019-09-25,SAMPLE,,,sample for virus test
+4,3,2019-04-03,CLINICAL SIGNS,,,
+4,2,2020-09-30,SAMPLE,,,Sample for virus
+6,4,2019-10-10,INPUT,Sucrose,1.0,Sugar paste
+3,2,2019-04-03,SAMPLE,,,Varroa inspection
+1,4,2019-10-11,CLINICAL SIGNS,,,colony dead
+6,7,2019-11-08,INPUT,Sucrose,2.5,Sugar paste
+2,6,2019-04-04,CLINICAL SIGNS,,,
+4,2,2019-05-15,CLINICAL SIGNS,,,
+2,4,2019-07-08,CLINICAL SIGNS,,,
+5,8,2020-04-11,INPUT,Sucrose,1.0,Sugar paste
+2,4,2020-05-14,CLINICAL SIGNS,,,no varrora in bottom tray
+6,12,2020-10-29,OUTPUT,Super + 10 frames,7.4,8 frame honey supper with wax comb
+2,7,2020-06-23,CLINICAL SIGNS,,,no varrora in bottom tray
+6,13,2020-04-26,INPUT,Super + 10 frames,6.9,8 frame honey supper with laminated wax
+1,3,2020-08-13,CLINICAL SIGNS,,,no varrora in bottom tray
+4,5,2019-06-14,CLINICAL SIGNS,,,
+1,7,2020-05-13,CLINICAL SIGNS,,,no varrora in bottom tray
+6,11,2020-04-08,INPUT,Super + 10 frames,7.36,8 frame honey supper with wax comb
+1,4,2019-04-04,CLINICAL SIGNS,,,signs of diarrhea
+5,1,2019-08-30,OUTPUT,Honey,23.4,Honey suppers removed for honey collection
+1,7,2020-06-18,CLINICAL SIGNS,,,to some extent
+6,19,2020-07-21,INPUT,Super + 10 frames,7.3,8 frame honey supper with wax comb
+2,3,2019-08-08,INPUT,Sucrose,1.25,apifonda
+4,1,2019-07-15,CLINICAL SIGNS,,,
+2,5,2020-09-23,INPUT,Sucrose,0.3,apifonda
+6,7,2019-03-27,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+2,3,2020-04-09,INPUT,Sucrose,0.81,apifonda
+5,3,2019-05-30,QUEEN LOSS,,,No queen
+2,1,2019-06-18,INPUT,Foundation comb,4.0,frame added no. 7-1
+5,6,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,5,2019-08-21,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+4,3,2019-08-30,CLINICAL SIGNS,,,
+1,7,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+6,7,2019-09-11,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,1,2019-09-23,INPUT,Sucrose,5.0,sucrose added-ApiInvert
+5,9,2020-10-21,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,2,2019-09-18,INPUT,Sucrose,2.0,sucrose added-ApiInvert
+1,7,2020-05-13,INPUT,Super + 10 frames,4.9,super added + frames no. 31-40 app 5 kg
+1,1,2019-08-19,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+4,2,2020-06-17,CLINICAL SIGNS,,,
+2,4,2020-08-17,INPUT,Sucrose,5.0,sucrose added-ApiInvert
+2,3,2019-08-21,INPUT,Thymol,1.0,thymol added
+2,9,2020-08-18,INPUT,Sucrose,5.0,sucrose added-ApiInvert
+5,8,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+1,7,2020-09-04,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,7,2020-08-27,INPUT,Thymol,1.0,thymol added
+2,9,2019-05-29,INPUT,Super + 10 frames,4.9,super added
+4,6,2020-08-17,INPUT,Sucrose,6.6,ApiInvert
+2,2,2019-04-24,INPUT,Super + 10 frames,4.9,super added + frames no. 11-20
+1,2,2019-08-20,INPUT,Thymol,1.0,thymol addet
+2,4,2019-08-16,OTHER,,,398 dead bees in front of hive
+6,11,2020-07-10,OUTPUT,Honey,59.4,Honey suppers removed for honey collection
+1,5,2019-07-30,OTHER,,,501 dead bees in front of hive
+1,2,2019-06-03,OTHER,,,127 dead bees in front of hive
+2,1,2019-04-23,OTHER,,,62 dead bees in front of hive
+5,1,2020-01-21,CLINICAL SIGNS,,,Dead colony - Cold (top hole was open) and starvation (frames with almost no honey)
+1,1,2020-05-13,OTHER,,,73 dead bees in front of hive
+1,1,2019-06-03,OTHER,,,171 dead bees in front of hive
+2,4,2020-08-17,OTHER,,,dead drones above queenexcluder >50
+5,4,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+1,7,2020-04-07,OTHER,,,moved from winter location in Hinnerup to Foulum
+2,4,2019-09-04,OTHER,,,245 dead bees in front of hive
+1,5,2020-09-04,OTHER,,,queen marked - must have hatched a new
+6,13,2020-07-21,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,1,2019-08-08,OUTPUT,Live bees,300.0,300 bees
+2,2,2019-09-04,OTHER,,,298 dead bees in front of hive
+2,4,2020-09-23,OUTPUT,Foundation comb,0.1,burr comb removed
+5,1,2019-04-16,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,9,2020-07-30,OUTPUT,Foundation comb,0.01,burr comb removed
+2,5,2019-09-04,OTHER,,,359 dead bees in front of hive
+1,7,2020-08-31,OUTPUT,Foundation comb,0.06,burr comb removed
+5,9,2020-03-23,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,2,2020-09-23,OUTPUT,Food comb,2.805,frame 12
+3,5,2019-05-13,INPUT,Super + 10 frames,2.3,
+2,3,2019-06-18,OUTPUT,Honey,5.145,honey frames removed total 5.1 kg
+6,10,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+1,6,2019-09-06,OUTPUT,Super + 10 frames,4.9,removed super with 10 combs
+4,4,2019-05-27,INPUT,Super + 10 frames,2.3,
+2,7,2019-08-16,OUTPUT,Honey,3.0,super + 7 combs with honey removed
+5,2,2020-02-04,INPUT,Food comb,1.69,2 comb frames with honey added
+2,1,2020-09-23,SAMPLE,,,bee sample for varroa
+4,3,2019-08-20,INPUT,Sucrose,6.9,
+2,5,2020-07-09,SAMPLE,,,brood sample for pestanalysis
+5,2,2020-08-24,OUTPUT,No input-output,0.3,feeder
+2,8,2020-04-28,SAMPLE,,,honey sample for pesticide analysis
+4,2,2019-09-26,INPUT,Sucrose,9.9,
+1,7,2020-08-13,SAMPLE,,,honey sample for pesticide analysis
+6,16,2020-07-10,INPUT,Foundation comb,1.7,Add 6 frames with laminated wax
+2,2,2020-08-17,SAMPLE,,,pollen from comb for ID
+4,12,2020-06-08,INPUT,Queen excluder,1.0,
+1,1,2020-06-02,SAMPLE,,,pollen from comb for ID
+6,6,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+1,7,2020-09-04,SAMPLE,,,pollen from comb for ID
+3,8,2020-05-10,OTHER,,,Excluded from experiment
+1,3,2020-04-24,SAMPLE,,,pollen sample for pesticide analysis
+6,4,2019-09-26,INPUT,No input-output,6.5,Empty box for treatment
+2,3,2020-04-28,SAMPLE,,,pollen sample for pesticide analysis only 1 gram
+4,3,2019-06-26,OUTPUT,Brood comb,0.014,
+3,1,2019-07-17,OUTPUT,Brood comb,0.031,
+5,5,2019-04-16,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+4,6,2020-07-15,OUTPUT,Super + 10 frames,5.0,
+5,5,2020-05-04,INPUT,No input-output,0.8,Honey + 0.3kg from feeder
+4,12,2020-08-07,OUTPUT,Honey,12.0,
+6,4,2019-09-10,SAMPLE,,,Collect bees for disease analysis
+3,2,2019-11-01,OUTPUT,Sucrose,2.8,Removed super and leftover sucrose
+6,13,2020-10-29,INPUT,Oxalic acid,15.0,Apply Varromed treatment
+4,5,2019-11-01,OUTPUT,Sucrose,2.9,Removed super and leftover sucrose
+6,12,2020-09-26,OUTPUT,No input-output,2.3,Remove box for activity recordings
+4,2,2019-07-29,SAMPLE,,,
+5,9,2020-01-21,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+3,8,2019-07-31,SAMPLE,,,
+5,1,2019-11-12,SAMPLE,,,Collect bees for disease analysis
+4,2,2020-07-13,SAMPLE,,,
+6,5,2019-12-29,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,3,2019-04-03,SAMPLE,,,Nosema test
+5,2,2020-02-04,OUTPUT,Foundation comb,0.77,2 comb frames
+4,11,2020-05-07,SAMPLE,,,Sample for pesticides
+5,8,2020-01-21,INPUT,Sucrose,2.5,Sugar paste
+3,2,2019-05-13,SAMPLE,,,sample for virus test
+4,6,2020-09-23,CLINICAL SIGNS,,,Dead because of robbing
+4,5,2019-05-15,SAMPLE,,,sample for virus test
+6,4,2020-01-21,INPUT,Sucrose,2.5,Sugar paste
+3,3,2019-09-26,SAMPLE,,,sample for virus test
+6,5,2019-10-10,OUTPUT,No input-output,6.3,Remove extra box from treatment
+4,2,2020-07-03,SAMPLE,,,sample for virus test
+5,9,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+4,11,2020-07-29,SAMPLE,,,Sample of pollen
+4,5,2019-04-03,CLINICAL SIGNS,,,
+4,12,2020-06-22,SAMPLE,,,Samples for pesticides + pollen determination
+6,9,2019-10-10,INPUT,Sucrose,1.0,Sugar paste
+3,5,2019-04-03,SAMPLE,,,Varroa inspection
+1,7,2020-08-31,CLINICAL SIGNS,,,app 20 mites in bottom tray
+6,2,2019-11-08,INPUT,Sucrose,2.5,Sugar paste
+1,3,2019-04-25,CLINICAL SIGNS,,,few
+4,4,2019-04-26,CLINICAL SIGNS,,,
+2,3,2020-07-09,CLINICAL SIGNS,,,half dead colony
+5,6,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+2,9,2019-08-16,CLINICAL SIGNS,,,
+5,7,2020-10-08,OUTPUT,No input-output,2.0,Remove pollen trap
+1,5,2019-07-30,CLINICAL SIGNS,,,
+5,8,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+2,1,2020-06-22,CLINICAL SIGNS,,,no varrora in bottom tray
+3,2,2019-05-29,CLINICAL SIGNS,,,
+2,2,2020-07-09,CLINICAL SIGNS,,,no varrora in bottom tray
+5,10,2020-04-11,INPUT,Sucrose,1.0,Sugar paste
+2,4,2020-07-28,CLINICAL SIGNS,,,no varrora in bottom tray
+5,12,2020-08-12,OUTPUT,Honey,9.0,Honey suppers removed for honey collection
+2,5,2020-08-17,CLINICAL SIGNS,,,no varrora in bottom tray
+6,16,2021-01-14,INPUT,Sucrose,1.0,Sugar paste
+1,1,2020-04-22,CLINICAL SIGNS,,,no varrora in bottom tray
+4,4,2019-06-11,CLINICAL SIGNS,,,
+1,3,2020-05-13,CLINICAL SIGNS,,,no varrora in bottom tray
+6,11,2020-05-15,INPUT,Super + 10 frames,7.16,8 frame honey supper with laminated wax
+1,5,2020-06-18,CLINICAL SIGNS,,,no varrora in bottom tray
+6,18,2020-06-20,OUTPUT,Super + 10 frames,6.6,8 frame honey supper with wax comb
+1,6,2020-07-08,CLINICAL SIGNS,,,no varrora in bottom tray
+6,13,2020-04-08,INPUT,Super + 10 frames,7.36,8 frame honey supper with wax comb
+1,7,2020-07-27,CLINICAL SIGNS,,,no varrora in bottom tray
+3,2,2019-06-12,CLINICAL SIGNS,,,
+1,3,2019-04-04,CLINICAL SIGNS,,,signs of diarrhea
+6,16,2020-05-08,INPUT,Super + 10 frames,7.23,8 frame honey supper with wax comb
+1,2,2019-04-04,CLINICAL SIGNS,,,small signs of diarrhea
+5,2,2020-10-21,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,8,2020-05-13,CLINICAL SIGNS,,,tendency to spotty brood.
+6,17,2020-04-08,INPUT,Super + 10 frames,8.5,9 frame honey supper with wax comb
+2,8,2020-09-03,CLINICAL SIGNS,,,varrora 25 pcs. in bottom of hive
+3,3,2019-06-28,CLINICAL SIGNS,,,
+2,6,2019-06-19,INPUT,Sucrose,1.0,apifonda
+6,2,2019-05-02,INPUT,Super + 10 frames,7.3,8 frame honey supper with wax comb
+1,2,2019-06-24,INPUT,Sucrose,1.25,apifonda
+6,4,2019-08-04,OUTPUT,Super + 10 frames,7.3,Remove honey supper with honey left from extraction
+2,2,2019-07-08,INPUT,Sucrose,1.25,apifonda
+5,4,2019-03-28,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+2,9,2020-09-23,INPUT,Sucrose,0.3,apifonda
+3,2,2019-07-17,CLINICAL SIGNS,,,
+2,9,2020-04-09,INPUT,Sucrose,0.81,apifonda
+6,17,2020-04-26,INPUT,Super + 10 frames,11.26,Upper nest with laminated wax
+2,9,2020-07-30,INPUT,Sucrose,2.5,apifonda due to lack of honey
+6,4,2019-07-09,OUTPUT,Honey,54.3,Honey suppers removed for honey collection
+1,1,2019-09-05,INPUT,Sucrose,3.0,food
+5,1,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,3,2020-04-13,INPUT,Sucrose,1.25,
+3,8,2019-07-30,CLINICAL SIGNS,,,
+1,3,2020-09-23,INPUT,Sucrose,0.3,sucrose added together wit queenshift
+5,9,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,1,2019-08-21,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+6,14,2020-05-15,QUEEN LOSS,,,Queen killed or harmed during inspection
+2,7,2019-09-04,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+6,2,2019-09-11,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,8,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,5,2019-08-30,CLINICAL SIGNS,,,
+2,9,2019-08-16,INPUT,Sucrose,6.5,sucrose added-ApiInvert
+6,2,2019-09-26,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,4,2019-08-19,INPUT,Sucrose,1.5,sucrose added-ApiInvert
+6,2,2019-04-14,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,1,2019-09-04,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+2,2,2020-05-14,INPUT,Super + 10 frames,4.9,super added + frames no. 31-40
+2,4,2019-08-16,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+4,6,2020-06-03,CLINICAL SIGNS,,,
+2,7,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+1,3,2020-06-02,INPUT,Super + 10 frames,4.9,super added + frames no. 41-50
+2,9,2019-08-21,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+5,4,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+2,2,2020-08-17,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+1,5,2019-08-19,INPUT,Thymol,1.0,thymol added
+2,5,2020-08-17,INPUT,Sucrose,4.0,sucrose added-ApiInvert
+4,6,2020-09-03,CLINICAL SIGNS,,,
+2,8,2020-08-17,INPUT,Sucrose,4.0,sucrose added-ApiInvert
+2,7,2019-08-21,INPUT,Thymol,1.0,thymol added
+1,1,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+5,5,2019-08-30,OUTPUT,Honey,29.5,Honey suppers removed for honey collection
+1,6,2020-08-13,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+2,4,2020-08-27,INPUT,Thymol,1.0,thymol added
+1,5,2020-08-27,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,1,2020-08-17,INPUT,Sucrose,7.8,ApiInvert
+2,9,2020-06-04,INPUT,Super + 10 frames,4.9,super + 10 frames added
+2,9,2020-08-27,INPUT,Thymol,1.0,thymol added
+1,6,2019-05-15,INPUT,Super + 10 frames,4.9,super added
+6,2,2019-03-12,SAMPLE,,,Collect beebread and nectar samples
+2,9,2020-04-23,INPUT,Super + 10 frames,4.9,super added + 10 frames
+1,5,2020-08-27,INPUT,Thymol,1.0,thymol added
+2,3,2019-05-29,INPUT,Super + 10 frames,4.9,super added + frames no. 21-30
+4,1,2020-09-01,INPUT,Sucrose,7.7,ApiInvert
+1,5,2019-09-06,OTHER,,,393 dead bees in front of hive
+1,7,2020-08-31,OTHER,,,1080 dead bees in front of hive
+2,5,2019-08-16,OTHER,,,429 dead bees in front of hive
+5,5,2020-05-22,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,3,2019-07-29,OTHER,,,475 dead bees in front of hive
+2,2,2019-08-14,OTHER,,,1215 dead bees in front of hive
+2,4,2019-05-14,OTHER,,,535 dead bees in front of hive
+6,14,2020-09-07,CLINICAL SIGNS,,,Colony was to small and Queenless. To weak to survive.
+1,3,2020-08-31,OTHER,,,575 dead bees in front of hive
+1,5,2019-05-15,OTHER,,,145 dead bees in front of hive
+2,5,2020-09-03,OTHER,,,644 dead bees in front of hive
+6,10,2019-04-13,SAMPLE,,,Collect beebread and nectar samples
+1,1,2019-09-05,OTHER,,,690 dead bees in front of hive
+2,2,2020-09-03,OTHER,,,1594 dead bees in front of hive
+1,2,2019-09-09,OTHER,,,877 dead bees in front of hive
+6,2,2020-01-21,CLINICAL SIGNS,,,
+2,5,2019-07-09,OTHER,,,all apifonda provided is eaten
+1,4,2019-06-04,OTHER,,,191 dead bees in front of hive
+1,7,2020-08-10,OTHER,,,Flight board gap decreased by half - to make it easier for the bees to defend the hive
+6,14,2020-07-10,OUTPUT,Honey,28.2,Honey suppers removed for honey collection
+1,8,2020-04-07,OTHER,,,moved from winter location in Hinnerup to Foulum
+2,1,2019-05-14,OTHER,,,224 dead bees in front of hive
+1,7,2020-09-23,OTHER,,,new queen added
+6,10,2019-09-26,CLINICAL SIGNS,,,New queen was not accepted and the colony died
+1,4,2019-08-09,OTHER,,,no samples too small a family - still food from last
+1,1,2020-06-02,OTHER,,,255 dead bees in front of hive
+2,6,2019-07-09,OTHER,,,some cells with 2 eggs i each
+5,8,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+2,6,2019-09-04,OTHER,,,very small family
+1,3,2019-06-04,OTHER,,,290 dead bees in front of hive
+2,1,2020-05-14,OUTPUT,Foundation comb,0.04,burr comb removed
+6,19,2020-07-21,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,4,2020-06-03,OUTPUT,Foundation comb,0.15,burr comb removed
+1,4,2019-07-11,OTHER,,,314 dead bees in front of hive
+2,5,2020-07-28,OUTPUT,Foundation comb,0.035,burr comb removed
+5,3,2020-05-22,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,8,2020-06-23,OUTPUT,Foundation comb,0.265,burr comb removed
+1,5,2019-07-11,OTHER,,,339 dead bees in front of hive
+1,3,2020-07-08,OUTPUT,Foundation comb,0.023,burr comb removed
+5,3,2020-03-23,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+1,7,2020-04-22,OUTPUT,Foundation comb,0.049,burr comb removed
+2,2,2020-05-14,OTHER,,,375 dead bees in front of hive
+2,3,2020-06-22,OUTPUT,Foundation comb,0.25,comb removed - empty
+6,6,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+1,2,2019-05-15,OUTPUT,Brood comb,10.0,for examination
+4,11,2020-08-07,INPUT,Sucrose,0.7,Feeder
+1,7,2020-08-13,OUTPUT,Honey,8.09,frame 31
+5,3,2020-08-12,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,1,2019-08-16,OUTPUT,Foundation comb,2.34,hive reduced to two super with 13 frames+sucrose frames removed are 12
+4,3,2019-05-15,INPUT,Super + 10 frames,2.3,
+1,3,2020-07-27,OUTPUT,Honey,9.31,honey frames removed
+5,4,2019-03-10,OUTPUT,No input-output,87.0,Dead bees in the tray
+2,2,2020-06-23,OUTPUT,Super + 10 frames,28.76,removed super 10 combs + 11 combs no. 17
+3,2,2019-05-24,INPUT,Super + 10 frames,2.3,
+2,4,2019-08-14,OUTPUT,Super + 10 frames,5.4,removed super with 10 combs (no. 8-11+15-20)
+5,2,2019-05-14,INPUT,Brood comb,1.1,1 brood frame from colony 8
+2,4,2019-08-16,OUTPUT,Live bees,300.0,sample for varroa
+4,4,2019-06-11,INPUT,Queen excluder,0.8,
+1,7,2020-09-23,OUTPUT,No input-output,2.7,super and feedingbag removed app  2700 gram
+5,4,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+1,3,2019-10-11,SAMPLE,,,bee sample for varroa
+3,3,2019-08-20,INPUT,Sucrose,2.1,
+2,7,2020-09-23,SAMPLE,,,bee sample for varroa
+5,8,2020-02-04,INPUT,Food comb,3.85,3 comb frames with honey added
+1,1,2020-06-02,SAMPLE,,,brood sample 3x6 cm tjeck for virus
+3,1,2019-08-11,INPUT,Sucrose,14.7,
+1,5,2020-07-08,SAMPLE,,,brood sample for pestanalysis
+5,9,2019-05-14,OUTPUT,Brood comb,1.0,Brood frame from colony 9 to Observation hive
+2,5,2020-06-22,SAMPLE,,,honey sample for pesticide analysis
+4,4,2019-08-12,INPUT,Sucrose,14.2,
+1,1,2020-06-19,SAMPLE,,,honey sample for pesticide analysis
+5,8,2020-03-23,INPUT,Foundation comb,0.5,1 frame of foundation added
+1,7,2020-04-22,SAMPLE,,,honey sample for pesticide analysis
+4,12,2020-05-03,INPUT,Super + 10 frames,5.0,
+1,8,2020-08-13,SAMPLE,,,honey sample for pesticide analysis
+6,2,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+2,1,2020-07-09,SAMPLE,,,pollen from comb for ID
+4,1,2020-06-08,INPUT,Queen excluder,1.0,
+2,4,2020-08-17,SAMPLE,,,pollen from comb for ID
+6,16,2020-06-05,INPUT,Live bees,1.0,New queen from queen breeder
+2,8,2020-08-17,SAMPLE,,,pollen from comb for ID
+4,6,2020-08-24,INPUT,Thymol,1.0,
+1,3,2020-07-27,SAMPLE,,,pollen from comb for ID
+5,5,2020-08-24,OUTPUT,No input-output,0.3,feeder
+1,6,2020-07-27,SAMPLE,,,pollen from comb for ID
+4,11,2020-09-21,INPUT,Queen excluder,0.4,Removed bee emptier
+1,8,2020-08-13,SAMPLE,,,pollen from comb for ID
+5,3,2020-03-26,INPUT,No input-output,2.3,Box for activity videos
+2,8,2020-06-23,SAMPLE,,,pollen sample for pesticide analysis
+3,1,2019-05-29,OTHER,,,Queen not found
+1,6,2020-04-24,SAMPLE,,,pollen sample for pesticide analysis
+6,10,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+1,7,2020-06-18,SAMPLE,,,pollen sample for pesticide analysis
+3,2,2019-06-12,OUTPUT,Brood comb,0.253,
+2,3,2019-05-14,SAMPLE,,,sample for pests
+5,3,2019-09-13,INPUT,No input-output,4.4,Empty box for treatment
+2,5,2019-08-08,SAMPLE,,,samples taken 9x9 cm brood for virus
+5,5,2019-09-13,INPUT,No input-output,4.5,Empty box for treatment
+4,3,2019-08-30,OUTPUT,Brood comb,0.015,
+6,14,2020-04-26,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+4,1,2020-07-15,OUTPUT,Super + 10 frames,5.0,
+5,3,2020-05-04,INPUT,No input-output,0.8,Honey + 0.3kg from feeder
+4,2,2020-07-15,OUTPUT,Super + 10 frames,5.0,
+6,2,2019-09-10,SAMPLE,,,Collect bees for disease analysis
+4,1,2020-08-07,OUTPUT,Honey,10.4,
+5,9,2020-05-04,INPUT,No input-output,0.8,Honey + 0.3kg from feeder
+3,4,2019-09-26,OUTPUT,Sucrose,2.5,Removed ApiInvert food
+5,10,2020-05-02,OUTPUT,Foundation comb,0.44,1 comb frame
+4,2,2020-08-24,OUTPUT,Sucrose,2.4,Removed super and bucket from food
+6,11,2020-10-29,INPUT,Oxalic acid,15.0,Apply Varromed treatment
+3,4,2019-11-01,OUTPUT,Sucrose,13.4,Removed super and leftover sucrose
+6,1,2019-09-10,SAMPLE,,,Collect bees for disease analysis
+4,3,2019-11-01,OUTPUT,Sucrose,5.6,Removed super and leftover sucrose
+5,2,2020-01-21,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,11,2020-08-07,OUTPUT,Food comb,0.5,Removed two frames to make room for the feeder
+5,3,2020-02-04,OUTPUT,Foundation comb,1.2,2 comb frames
+4,11,2020-06-08,QUEEN LOSS,,,
+5,7,2020-01-21,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,4,2019-07-29,SAMPLE,,,
+6,4,2019-11-08,SAMPLE,,,Collect bees for disease analysis
+3,3,2019-07-31,SAMPLE,,,
+5,7,2019-12-30,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,6,2020-06-08,SAMPLE,,,
+5,3,2020-10-08,OUTPUT,No input-output,2.2,Remove box for activity recordings
+4,1,2020-07-13,SAMPLE,,,
+6,2,2019-12-29,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,12,2020-07-13,SAMPLE,,,
+5,3,2019-11-12,SAMPLE,,,Collect bees for disease analysis
+3,2,2019-04-03,SAMPLE,,,Nosema test
+5,8,2019-12-30,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+3,5,2019-04-03,SAMPLE,,,Nosema test
+6,11,2020-09-18,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+4,2,2020-05-07,SAMPLE,,,Sample for pesticides
+5,6,2019-12-30,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,1,2020-08-24,SAMPLE,,,Sample for varroa
+5,2,2019-04-28,SWARM,,,Second swarm
+4,12,2020-08-24,SAMPLE,,,Sample for varroa
+5,3,2020-01-21,INPUT,Sucrose,2.5,Sugar paste
+3,4,2019-05-13,SAMPLE,,,sample for virus test
+6,3,2019-10-10,OUTPUT,No input-output,6.5,Remove extra box from treatment
+4,3,2019-05-15,SAMPLE,,,sample for virus test
+5,5,2020-01-21,INPUT,Sucrose,1.0,Sugar paste
+4,3,2019-08-30,SAMPLE,,,sample for virus test
+4,1,2019-04-03,CLINICAL SIGNS,,,
+4,3,2019-09-25,SAMPLE,,,sample for virus test
+5,8,2019-09-13,INPUT,Sucrose,1.0,Sugar paste
+4,5,2019-09-25,SAMPLE,,,sample for virus test
+5,2,2019-08-30,OUTPUT,Foundation comb,0.8,2 comb frames
+4,1,2020-07-03,SAMPLE,,,sample for virus test
+5,3,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+4,12,2020-09-30,SAMPLE,,,Sample for virus
+4,1,2019-04-03,CLINICAL SIGNS,,,
+4,1,2020-07-29,SAMPLE,,,Sample of pollen
+6,2,2019-10-10,INPUT,Sucrose,1.0,Sugar paste
+4,1,2020-09-03,SAMPLE,,,Sample of pollen
+5,2,2019-10-11,OUTPUT,No input-output,4.8,Remove extra box from treatment
+4,1,2020-06-22,SAMPLE,,,Samples for pesticides + pollen determination
+6,7,2019-10-10,INPUT,Sucrose,1.0,Sugar paste
+3,3,2019-04-03,SAMPLE,,,Varroa inspection
+3,5,2019-04-25,CLINICAL SIGNS,,,
+4,3,2019-04-03,SAMPLE,,,Varroa inspection
+5,4,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+2,1,2020-09-03,CLINICAL SIGNS,,,10-15 pcs. in bottom of hive
+1,1,2020-08-31,CLINICAL SIGNS,,,app 100 mites in bottom tray - apiguard has worked
+5,10,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+1,4,2020-03-23,CLINICAL SIGNS,,,colony dead during winter
+4,3,2019-04-26,CLINICAL SIGNS,,,
+1,3,2019-07-11,CLINICAL SIGNS,,,eggs on the edge of cells
+6,4,2019-11-08,INPUT,Sucrose,2.5,Sugar paste
+1,7,2019-09-09,CLINICAL SIGNS,,,few
+5,9,2020-10-08,OUTPUT,No input-output,2.0,Remove pollen trap
+2,6,2019-05-29,CLINICAL SIGNS,,,from earlier
+6,9,2019-11-08,INPUT,Sucrose,2.5,Sugar paste
+2,4,2019-08-14,CLINICAL SIGNS,,,just one bee
+4,5,2019-04-26,CLINICAL SIGNS,,,
+2,6,2019-05-14,CLINICAL SIGNS,,,
+5,10,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+1,2,2019-06-24,CLINICAL SIGNS,,,
+5,9,2020-08-12,OUTPUT,Honey,16.2,Honey suppers removed for honey collection
+1,3,2019-07-11,CLINICAL SIGNS,,,
+5,5,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+2,2,2019-04-04,CLINICAL SIGNS,,,
+3,1,2019-05-29,CLINICAL SIGNS,,,
+2,1,2020-05-14,CLINICAL SIGNS,,,no varrora in bottom tray
+5,3,2020-04-11,INPUT,Sucrose,1.0,Sugar paste
+2,1,2020-07-28,CLINICAL SIGNS,,,no varrora in bottom tray
+6,13,2020-09-26,OUTPUT,No input-output,2.2,Remove box for activity recordings
+2,2,2020-06-03,CLINICAL SIGNS,,,no varrora in bottom tray
+5,9,2020-04-11,INPUT,Sucrose,1.0,Sugar paste
+2,2,2020-08-17,CLINICAL SIGNS,,,no varrora in bottom tray
+3,3,2019-05-29,CLINICAL SIGNS,,,
+2,4,2020-06-03,CLINICAL SIGNS,,,no varrora in bottom tray
+6,16,2020-10-29,INPUT,Sucrose,2.5,Sugar paste
+2,5,2020-04-28,CLINICAL SIGNS,,,no varrora in bottom tray
+6,17,2020-09-18,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,5,2020-07-09,CLINICAL SIGNS,,,no varrora in bottom tray
+5,8,2020-10-08,INPUT,Sucrose,2.5,Sugar paste
+2,7,2020-05-15,CLINICAL SIGNS,,,no varrora in bottom tray
+3,1,2019-05-13,CLINICAL SIGNS,,,
+2,7,2020-07-28,CLINICAL SIGNS,,,no varrora in bottom tray
+5,8,2020-12-02,INPUT,Sucrose,1.0,Sugar paste
+1,1,2020-06-02,CLINICAL SIGNS,,,no varrora in bottom tray
+6,15,2020-10-29,OUTPUT,Super + 10 frames,7.5,8 frame honey supper with wax comb
+1,1,2020-08-13,CLINICAL SIGNS,,,no varrora in bottom tray
+6,11,2020-04-26,INPUT,Super + 10 frames,6.55,8 frame honey supper with laminated wax
+1,3,2020-06-18,CLINICAL SIGNS,,,no varrora in bottom tray
+4,2,2019-06-11,CLINICAL SIGNS,,,
+1,5,2020-05-13,CLINICAL SIGNS,,,no varrora in bottom tray
+6,19,2020-04-26,INPUT,Super + 10 frames,6.8,8 frame honey supper with laminated wax
+1,5,2020-07-27,CLINICAL SIGNS,,,no varrora in bottom tray
+5,10,2020-08-12,OUTPUT,Honey,17.2,Honey suppers removed for honey collection
+1,6,2020-06-02,CLINICAL SIGNS,,,no varrora in bottom tray
+6,13,2020-07-21,INPUT,Super + 10 frames,8.0,8 frame honey supper with wax comb
+1,6,2020-08-13,CLINICAL SIGNS,,,no varrora in bottom tray
+3,8,2019-06-14,CLINICAL SIGNS,,,
+1,7,2020-06-18,CLINICAL SIGNS,,,no varrora in bottom tray
+6,15,2020-07-21,INPUT,Super + 10 frames,7.0,8 frame honey supper with wax comb
+2,9,2019-07-29,CLINICAL SIGNS,,,not many eggs
+6,1,2019-09-26,OUTPUT,Super + 10 frames,8.2,Remove honey supper with honey left from extraction
+1,2,2019-07-10,CLINICAL SIGNS,,,queen not seen + no eggs
+5,4,2020-03-23,INPUT,Super + 10 frames,7.3,8 frame honey supper with wax comb
+1,3,2019-06-04,CLINICAL SIGNS,,,signs of diarrhea
+3,3,2019-06-12,CLINICAL SIGNS,,,
+1,4,2019-06-04,CLINICAL SIGNS,,,signs of diarrhea
+6,18,2020-03-19,INPUT,Super + 10 frames,7.68,8 frame honey supper with wax comb
+2,3,2020-05-14,CLINICAL SIGNS,,,some bees are very small
+5,10,2020-10-21,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,7,2020-06-02,CLINICAL SIGNS,,,some galleries
+5,2,2020-03-23,INPUT,Super + 10 frames,7.3,9 frame honey supper with wax comb
+1,7,2019-07-10,CLINICAL SIGNS,,,to some extent
+4,3,2019-06-26,CLINICAL SIGNS,,,
+2,2,2020-09-03,CLINICAL SIGNS,,,varrora 10-15 pcs. in bottom of hive
+6,14,2020-07-21,INPUT,Super + 10 frames,8.11,8 frame honey supper with wax comb
+2,4,2020-09-03,CLINICAL SIGNS,,,varrora mites 2 pcs. in the tray on the bottom of the hive
+6,3,2019-09-26,OUTPUT,Super + 10 frames,14.0,Remove honey supper with honey left from extraction
+2,1,2019-08-08,INPUT,Sucrose,1.25,apifonda
+6,4,2019-05-02,INPUT,Super + 10 frames,7.5,8 frame honey supper with wax comb
+2,6,2019-07-29,INPUT,Sucrose,2.5,apifonda
+3,4,2019-06-28,CLINICAL SIGNS,,,
+2,7,2019-08-08,INPUT,Sucrose,1.25,apifonda
+5,2,2019-03-28,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+1,4,2019-06-24,INPUT,Sucrose,1.25,apifonda
+6,2,2019-07-09,OUTPUT,Honey,53.9,Honey suppers removed for honey collection
+1,7,2019-08-09,INPUT,Sucrose,1.25,apifonda
+5,1,2019-03-28,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+2,4,2019-07-29,INPUT,Sucrose,1.25,apifonda
+4,5,2019-07-15,CLINICAL SIGNS,,,
+2,8,2020-07-30,INPUT,Sucrose,2.5,apifonda
+5,7,2019-03-28,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+1,7,2020-04-07,INPUT,Sucrose,0.81,apifonda
+5,2,2019-05-22,OUTPUT,Super + 10 frames,10.3,Remove upper nest
+1,8,2020-04-07,INPUT,Sucrose,0.81,apifonda
+6,8,2019-05-01,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+2,5,2020-04-09,INPUT,Sucrose,0.81,apifonda
+3,8,2019-07-17,CLINICAL SIGNS,,,
+2,1,2020-04-09,INPUT,Sucrose,0.81,apifonda
+6,5,2019-03-27,INPUT,Super + 10 frames,11.0,Upper nest with laminated wax
+2,2,2020-09-23,INPUT,Sucrose,0.3,apifonda together with queen shift
+5,5,2020-10-21,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,8,2020-09-23,INPUT,Sucrose,0.3,apifonda together with queen shift
+5,4,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,7,2020-06-18,INPUT,Foundation comb,0.48,foundation comb no 31-1 ad 32-1 added
+3,2,2019-07-30,CLINICAL SIGNS,,,
+1,1,2019-07-11,INPUT,Queen excluder,1.0,
+5,3,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,8,2020-05-13,INPUT,Super + 10 frames,4.9,new super and 10vframes added
+6,6,2019-06-16,QUEEN LOSS,,,Queen killed or harmed during inspection
+1,7,2019-07-30,INPUT,Queen excluder,1.0,queen excluder added
+5,7,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,6,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,3,2019-08-30,CLINICAL SIGNS,,,
+2,3,2019-08-21,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+5,6,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,8,2019-09-18,INPUT,Sucrose,2.0,sucrose added-ApiInvert
+6,6,2019-07-09,OUTPUT,Honey,31.1,Honey suppers removed for honey collection
+2,5,2019-08-16,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+5,7,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,5,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,4,2019-08-30,CLINICAL SIGNS,,,
+1,8,2019-08-19,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+6,5,2019-09-11,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,3,2019-09-23,INPUT,Sucrose,2.0,sucrose added-ApiInvert
+5,4,2020-05-29,QUEEN LOSS,,,Queen killed or harmed during inspection
+2,8,2019-08-16,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+6,9,2019-09-11,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,2,2019-09-09,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+4,2,2019-09-25,CLINICAL SIGNS,,,
+1,5,2019-09-23,INPUT,Sucrose,4.0,sucrose added-ApiInvert
+6,4,2019-09-26,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,5,2019-08-19,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+6,11,2020-05-15,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,7,2019-08-20,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+1,7,2020-04-24,INPUT,Super + 10 frames,4.9,super added + frames no. 21-30
+2,2,2019-08-14,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+4,4,2020-04-17,CLINICAL SIGNS,,,
+2,3,2019-09-04,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+2,4,2020-06-03,INPUT,Super + 10 frames,4.9,super added + frames no. 31-40
+2,4,2019-09-04,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+5,2,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+2,4,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,1,2020-06-03,INPUT,Super + 10 frames,4.9,super added + frames no. 41-50
+1,1,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,12,2020-06-03,CLINICAL SIGNS,,,
+1,3,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,6,2019-08-16,INPUT,Super + 10 frames,2.3,super added no frames just for the food bag to hang on
+2,7,2019-08-21,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+5,3,2019-08-30,OUTPUT,Honey,14.5,Honey suppers removed for honey collection
+2,1,2020-08-27,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+2,1,2019-08-21,INPUT,Thymol,1.0,thymol added
+2,2,2020-08-27,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+4,6,2020-06-26,CLINICAL SIGNS,,,
+2,4,2020-08-27,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+1,7,2019-08-20,INPUT,Thymol,1.0,thymol added
+2,5,2020-08-27,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+5,6,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+2,7,2020-08-27,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+2,5,2019-08-21,INPUT,Thymol,1.0,thymol added
+2,8,2020-08-27,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+4,3,2020-01-21,CLINICAL SIGNS,,,The hive was empty
+2,9,2020-08-27,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+2,9,2019-08-21,INPUT,Thymol,1.0,thymol added
+1,1,2020-08-27,INPUT,Sucrose,5.0,sucrose added-ApiInvert
+5,2,2020-05-22,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,5,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,2,2020-08-27,INPUT,Thymol,1.0,thymol added
+1,6,2020-09-04,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,5,2019-08-30,INPUT,Sucrose,6.3,ApiInvert
+1,8,2020-08-31,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,5,2020-08-27,INPUT,Thymol,1.0,thymol added
+1,7,2020-08-27,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+5,10,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+1,5,2019-06-04,INPUT,Super + 10 frames,4.9,super + 10 frames added
+2,8,2020-08-27,INPUT,Thymol,1.0,thymol added
+2,1,2019-05-29,INPUT,Super + 10 frames,4.9,super + 10 frames added (frames no. 21-30)
+4,12,2020-08-17,INPUT,Sucrose,6.7,ApiInvert
+1,4,2019-04-25,INPUT,Super + 10 frames,4.9,super added
+1,1,2020-08-27,INPUT,Thymol,1.0,thymol added
+2,7,2019-05-29,INPUT,Super + 10 frames,4.9,super added
+6,13,2020-07-10,OUTPUT,Honey,57.6,Honey suppers removed for honey collection
+2,7,2020-04-28,INPUT,Super + 10 frames,4.9,super added + 10 frames
+1,8,2020-08-21,INPUT,Thymol,1.0,thymol added
+1,5,2020-04-24,INPUT,Super + 10 frames,4.9,super added + frames no. 1-10 app 5 kilo
+4,12,2020-08-07,INPUT,Sucrose,6.5,ApiInvert
+1,6,2020-04-24,INPUT,Super + 10 frames,4.9,super added + frames no. 11-20 app 4
+1,7,2020-08-27,INPUT,Thymol,1.0,thymol added
+2,2,2020-04-28,INPUT,Super + 10 frames,4.9,super added + frames no. 21-30
+6,5,2019-03-12,SAMPLE,,,Collect beebread and nectar samples
+1,1,2019-04-25,OTHER,,,39 dead bees in front of hive
+2,5,2020-07-09,OTHER,,,103 dead bees in front of hive
+1,1,2019-06-24,OTHER,,,396 dead bees in front of hive
+4,12,2020-09-01,INPUT,Sucrose,8.4,ApiInvert
+1,3,2019-06-24,OTHER,,,405 dead bees in front of hive
+1,5,2019-04-25,OTHER,,,111 dead bees in front of hive
+2,1,2019-07-08,OTHER,,,441 dead bees in front of hive
+6,4,2019-04-14,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,2,2019-04-24,OTHER,,,46 dead bees in front of hive
+2,3,2020-06-03,OTHER,,,119 dead bees in front of hive
+2,4,2019-07-08,OTHER,,,481 dead bees in front of hive
+6,18,2020-03-19,CLINICAL SIGNS,,,
+1,2,2019-04-25,OTHER,,,52 dead bees in front of hive
+1,5,2020-07-27,OTHER,,,126 dead bees in front of hive
+2,3,2019-05-14,OTHER,,,545 dead bees in front of hive
+6,8,2019-04-13,SAMPLE,,,Collect beebread and nectar samples
+1,3,2020-06-18,OTHER,,,565 dead bees in front of hive
+1,1,2020-09-04,OTHER,,,1350 dead bees in front of hive
+2,5,2020-06-03,OTHER,,,607 dead bees in front of hive
+6,13,2021-01-05,CLINICAL SIGNS,,,Confirmed in 15.01.21
+1,1,2019-05-15,OTHER,,,63 dead bees in front of hive
+1,4,2019-06-24,OTHER,,,152 dead bees in front of hive
+1,5,2019-06-04,OTHER,,,658 dead bees in front of hive
+6,18,2020-07-10,OUTPUT,Honey,16.3,Honey suppers removed for honey collection
+2,3,2020-04-28,OTHER,,,67 dead bees in front of hive
+2,5,2019-05-14,OTHER,,,159 dead bees in front of hive
+1,5,2020-04-24,OTHER,,,70 dead bees in front of hive
+6,12,2021-03-13,CLINICAL SIGNS,,,Internal temperature became unstable in 6 of February
+2,4,2020-06-22,OTHER,,,797 dead bees in front of hive
+1,2,2019-06-24,OTHER,,,169 dead bees in front of hive
+1,5,2020-08-31,OTHER,,,900 dead bees in front of hive
+5,2,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+1,7,2020-05-13,OTHER,,,99 dead bees in front of hive
+1,3,2020-07-27,OTHER,,,182 dead bees in front of hive
+2,7,2020-07-09,INPUT,Super + 10 frames,4.9,consists of one super with frames no. 21-30
+6,7,2020-01-21,CLINICAL SIGNS,,,
+1,5,2020-09-23,INPUT,No input-output,2.7,feeder and super removed app 2700 gram
+2,5,2020-07-28,OTHER,,,200 dead bees in front of hive
+2,6,2019-09-04,OTHER,,,frame added as replacement for the molden one
+5,9,2020-05-22,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,3,2019-09-18,OTHER,,,lost queen but there is eggs and brood
+1,1,2020-04-22,OTHER,,,22 dead bees in front of hive
+1,6,2020-04-07,OTHER,,,moved from winter location in Hinnerup to Foulum
+6,18,2020-09-07,CLINICAL SIGNS,,,
+2,8,2020-09-23,OTHER,,,new queen added
+1,2,2019-08-20,OTHER,,,233 dead bees in front of hive
+2,4,2020-08-21,OTHER,,,new queen from Sven Sejr. as we have found the old queen dead
+5,6,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+2,7,2020-09-23,OTHER,,,new quen added
+1,5,2019-06-24,OTHER,,,2476 dead bees in front of hive
+2,7,2019-07-29,OTHER,,,only few eggs
+6,15,2020-07-21,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,1,2019-07-08,OTHER,,,robery
+2,3,2019-05-29,OTHER,,,261 dead bees in front of hive
+2,7,2020-07-09,OTHER,,,super two with frames 10-17 + 7 +9
+6,3,2019-03-09,OUTPUT,No input-output,38.0,Dead bees in the tray
+1,6,2020-06-18,OTHER,,,unmarked queen observed and marked
+1,3,2019-07-11,OTHER,,,281 dead bees in front of hive
+2,1,2020-08-18,OUTPUT,Food comb,12.07,14 frames with honey and brood removed due to reduction
+6,11,2020-07-21,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,5,2019-08-08,OUTPUT,Live bees,300.0,bees for varroa and 9 by 9 comb for virus
+2,2,2019-05-14,OTHER,,,291 dead bees in front of hive
+2,1,2020-06-22,OUTPUT,Foundation comb,0.003,burr comb removed
+5,10,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+2,2,2020-07-09,OUTPUT,Foundation comb,0.01,burr comb removed
+2,1,2020-06-03,OTHER,,,303 dead bees in front of hive
+2,4,2020-07-09,OUTPUT,Foundation comb,0.055,burr comb removed
+6,17,2020-07-21,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,5,2020-06-22,OUTPUT,Foundation comb,0.02,burr comb removed
+2,1,2019-07-29,OTHER,,,321 dead bees in front of hive
+2,7,2020-06-03,OUTPUT,Foundation comb,0.085,burr comb removed
+6,4,2019-09-11,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,7,2020-09-03,OUTPUT,Foundation comb,0.085,burr comb removed
+2,2,2019-06-18,OTHER,,,333 dead bees in front of hive
+2,9,2020-06-23,OUTPUT,Foundation comb,0.03,burr comb removed
+5,7,2020-08-24,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+1,1,2020-06-19,OUTPUT,Foundation comb,0.01015,burr comb removed
+2,1,2020-05-14,OTHER,,,352 dead bees in front of hive
+1,3,2020-06-02,OUTPUT,Foundation comb,0.15,burr comb removed
+6,4,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+1,5,2020-07-27,OUTPUT,Foundation comb,0.095,burr comb removed
+2,3,2019-06-18,OTHER,,,373 dead bees in front of hive
+1,7,2020-07-08,OUTPUT,Foundation comb,0.013,burr comb removed
+5,5,2020-03-23,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+1,6,2020-09-23,OUTPUT,Honey,0.5,burr comb with honey removed
+2,2,2020-08-17,OTHER,,,377 dead bees in front of hive
+1,1,2019-09-05,OUTPUT,Food comb,7.0,combs no.  2
+5,2,2019-03-10,OUTPUT,No input-output,84.0,Dead bees in the tray
+1,6,2020-09-23,OUTPUT,Super + 10 frames,2.7,feeder and super removed app 2700 gram
+4,1,2020-08-07,INPUT,Sucrose,0.7,Feeder
+2,2,2020-09-03,OUTPUT,Foundation comb,1.57,frame 1.11.14
+5,10,2020-03-23,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+1,1,2019-09-09,OUTPUT,Food comb,1.395,frame 26 with honey and brood removed due to reduction
+4,2,2020-08-17,INPUT,Sucrose,2.4,Gave them bucket and super for feeding
+2,7,2020-08-17,OUTPUT,Super + 10 frames,6.43,frame no 10
+6,9,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+1,1,2019-09-23,OUTPUT,Foundation comb,2.0,frames no. 23 and 1 removed
+4,1,2019-05-15,INPUT,Super + 10 frames,2.3,
+1,5,2020-08-21,OUTPUT,Honey,29.995,honey frames removed 1 super
+5,9,2020-08-12,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,7,2020-06-23,OUTPUT,Honey,0.0,honey frames removed
+4,4,2019-05-15,INPUT,Super + 10 frames,2.3,
+1,6,2020-06-18,OUTPUT,Honey,17.52,one super + frame 11-12-13-17-18 honey combs and  31-32-38-39-40 empty frames removed
+5,8,2020-03-23,OUTPUT,Brood comb,0.5,1 brood frame
+2,4,2020-08-17,OUTPUT,Foundation comb,2.99,removed 10 combs no. 5
+3,4,2019-05-24,INPUT,Super + 10 frames,2.3,
+2,1,2019-08-08,OUTPUT,Super + 10 frames,4.9,removed super with 10 combs
+5,7,2020-02-04,INPUT,Brood comb,1.0,1 brood frame from colony 8
+2,1,2019-08-08,OUTPUT,Super + 10 frames,4.9,removed super with 10 combs (no. 3-10+19
+3,1,2019-05-24,INPUT,Super + 10 frames,2.3,
+2,2,2019-08-16,OUTPUT,Super + 10 frames,2.645,removed super with 10 combs no. 21-30
+5,2,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+2,3,2019-07-29,OUTPUT,Foundation comb,4.865,removed super with 10 combs
+4,2,2019-06-11,INPUT,Queen excluder,0.8,
+1,3,2019-08-19,OUTPUT,Foundation comb,4.9,super + 10 frames removed frame no. 4-8
+5,3,2020-02-04,INPUT,Food comb,3.75,2 comb frames with honey added
+2,5,2020-07-28,OUTPUT,Foundation comb,2.985,super + frames no. 31-36 removed
+3,8,2019-06-14,INPUT,Queen excluder,0.8,
+1,5,2020-08-21,OUTPUT,Thymol,1.0,thymol added
+6,1,2019-03-09,OUTPUT,No input-output,168.0,Dead bees in the tray
+1,1,2019-10-11,SAMPLE,,,bee sample for varroa
+3,1,2019-08-20,INPUT,Sucrose,8.3,
+1,7,2019-10-11,SAMPLE,,,bee sample for varroa
+5,2,2019-08-30,INPUT,Food comb,1.9,2 comb frames with honey and beebread added
+2,4,2020-09-23,SAMPLE,,,bee sample for varroa
+4,1,2019-08-20,INPUT,Sucrose,5.0,
+2,8,2020-09-23,SAMPLE,,,bees for varroa
+5,6,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+2,4,2020-07-09,SAMPLE,,,brood sample
+4,5,2019-08-20,INPUT,Sucrose,7.2,
+2,6,2019-05-14,SAMPLE,,,brood sample for pestanalysis
+6,1,2019-07-15,INPUT,Food comb,12.2,Add honey supper with honey left from extraction
+2,9,2020-07-09,SAMPLE,,,brood sample for pestanalysis
+3,3,2019-08-11,INPUT,Sucrose,15.0,
+1,7,2020-06-02,SAMPLE,,,brood sample for pestanalysis
+5,3,2019-04-16,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,1,2020-04-28,SAMPLE,,,honey sample for pesticide analysis
+4,2,2019-08-12,INPUT,Sucrose,14.9,
+2,7,2020-04-28,SAMPLE,,,honey sample for pesticide analysis
+6,4,2019-07-15,INPUT,Food comb,20.9,Add honey supper with honey left from extraction
+2,9,2020-04-28,SAMPLE,,,honey sample for pesticide analysis
+3,8,2019-09-26,INPUT,Sucrose,9.9,
+1,5,2020-04-24,SAMPLE,,,honey sample for pesticide analysis
+5,10,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+1,6,2020-06-18,SAMPLE,,,honey sample for pesticide analysis
+4,4,2019-09-26,INPUT,Sucrose,10.0,
+1,3,2020-06-18,SAMPLE,,,honey sample for pesticide analysis
+6,1,2019-04-25,INPUT,Foundation comb,0.7,2 frames of foundation added
+1,8,2020-04-24,SAMPLE,,,honey sample for pesticide analysis
+4,2,2020-05-03,INPUT,Super + 10 frames,5.0,
+1,1,2020-09-23,SAMPLE,,,live bees
+5,10,2020-08-24,OUTPUT,No input-output,0.3,feeder
+1,8,2020-09-23,SAMPLE,,,live bees
+4,1,2020-05-20,INPUT,Super + 10 frames,5.0,
+2,1,2020-09-03,SAMPLE,,,pollen from comb for ID
+5,10,2019-06-28,INPUT,Live bees,1.0,New queen from queen breeder
+2,2,2020-09-03,SAMPLE,,,pollen from comb for ID
+4,2,2020-06-08,INPUT,Queen excluder,1.0,
+2,5,2020-07-28,SAMPLE,,,pollen from comb for ID
+6,4,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+2,7,2020-07-28,SAMPLE,,,pollen from comb for ID
+4,1,2020-08-24,INPUT,Thymol,1.0,
+2,9,2020-07-09,SAMPLE,,,pollen from comb for ID
+6,14,2020-06-05,INPUT,Live bees,1.0,New queen from queen breeder
+1,3,2020-04-24,SAMPLE,,,pollen from comb for ID
+4,12,2020-08-24,INPUT,Thymol,1.0,
+1,5,2020-04-24,SAMPLE,,,pollen from comb for ID
+6,14,2020-06-23,OUTPUT,Food comb,1.5,Remove 1 frame (frame 5) with beebread
+1,6,2020-04-24,SAMPLE,,,pollen from comb for ID
+4,11,2020-09-09,INPUT,Thymol,1.0,
+1,7,2020-06-02,SAMPLE,,,pollen from comb for ID
+6,13,2020-03-20,INPUT,No input-output,2.3,Box for activity videos
+1,8,2020-07-08,SAMPLE,,,pollen from comb for ID
+4,12,2020-07-09,INPUT,Super + 10 frames,5.2,Super + 10 frames + Bee emptier
+2,1,2020-06-22,SAMPLE,,,pollen sample for pesticide analysis
+6,8,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+2,7,2020-06-23,SAMPLE,,,pollen sample for pesticide analysis
+3,4,2020-05-14,OTHER,,,Monitoring ended
+2,9,2020-06-23,SAMPLE,,,pollen sample for pesticide analysis
+6,2,2019-09-26,INPUT,No input-output,6.1,Empty box for treatment
+1,5,2020-06-18,SAMPLE,,,pollen sample for pesticide analysis
+4,2,2019-04-26,OUTPUT,Brood comb,0.3,
+1,6,2020-08-13,SAMPLE,,,pollen sample for pesticide analysis
+5,9,2020-08-24,OUTPUT,No input-output,0.3,feeder
+1,3,2020-08-13,SAMPLE,,,pollen sample for pesticide analysis
+3,8,2019-06-14,OUTPUT,Brood comb,0.179,
+1,8,2020-06-18,SAMPLE,,,pollen sample for pesticide analysis
+5,1,2019-09-13,INPUT,No input-output,3.9,Empty box for treatment
+1,5,2019-08-09,SAMPLE,,,sample for pests
+4,1,2019-06-26,OUTPUT,Brood comb,0.031,
+2,4,2019-05-14,SAMPLE,,,sample for pests
+5,2,2019-09-12,SAMPLE,,300.0,Collect bees for disease analysis
+2,1,2019-05-14,SAMPLE,,,sample to test for virus
+4,2,2019-07-15,OUTPUT,Brood comb,0.141,
+4,5,2019-07-15,OUTPUT,Brood comb,0.012,
+5,3,2019-09-12,SAMPLE,,300.0,Collect bees for disease analysis
+4,1,2019-07-29,OUTPUT,Brood comb,0.025,
+5,10,2020-05-02,INPUT,Food comb,1.04,1 comb frame with honey added
+4,5,2019-08-30,OUTPUT,Brood comb,0.037,
+6,3,2019-09-13,OTHER,,,Absconding - the same queen but less bees
+4,1,2020-06-19,OUTPUT,Honey,22.2,
+5,2,2020-05-04,INPUT,No input-output,0.8,Honey + 0.3kg from feeder
+4,1,2020-07-15,OUTPUT,Honey,10.3,
+5,5,2019-09-12,SAMPLE,,300.0,Collect bees for disease analysis
+4,6,2020-07-15,OUTPUT,Honey,15.1,
+5,4,2020-05-04,INPUT,No input-output,0.8,Honey + 0.3kg from feeder
+4,2,2020-07-15,OUTPUT,Honey,20.5,
+5,9,2020-05-02,OUTPUT,Food comb,1.04,1 honey frame
+4,12,2020-07-15,OUTPUT,Honey,20.6,
+5,8,2020-05-04,INPUT,No input-output,0.8,Honey + 0.3kg from feeder
+4,2,2020-08-07,OUTPUT,Honey,10.7,
+6,3,2019-09-10,SAMPLE,,,Collect bees for disease analysis
+3,2,2019-09-26,OUTPUT,Sucrose,2.5,Removed ApiInvert food
+5,7,2020-05-04,INPUT,No input-output,0.8,Honey + 0.3kg from feeder
+4,1,2020-09-21,OUTPUT,Queen excluder,0.4,Removed bee emptier
+5,7,2020-03-23,OUTPUT,Foundation comb,0.5,1 comb frame
+4,2,2020-09-09,OUTPUT,Sucrose,2.4,Removed feeder
+5,11,2020-05-04,INPUT,No input-output,0.8,Honey + 0.3kg from feeder
+4,6,2020-08-24,OUTPUT,Sucrose,2.4,Removed super and bucket from food
+6,5,2019-09-10,SAMPLE,,,Collect bees for disease analysis
+3,3,2019-11-01,OUTPUT,Sucrose,4.5,Removed super and leftover sucrose
+6,15,2020-10-29,INPUT,Oxalic acid,15.0,Apply Varromed treatment
+3,8,2019-11-01,OUTPUT,Sucrose,12.2,Removed super and leftover sucrose
+6,16,2020-05-15,OUTPUT,No input-output,1.3,Honey super 3 was moved into the top in a new box
+4,2,2019-11-01,OUTPUT,Sucrose,4.5,Removed super and leftover sucrose
+6,20,2020-10-29,INPUT,Oxalic acid,15.0,Apply Varromed treatment
+4,4,2019-11-01,OUTPUT,Sucrose,9.0,Removed super and leftover sucrose
+6,1,2019-11-08,SAMPLE,,,Collect bees for disease analysis
+4,1,2020-08-07,OUTPUT,Food comb,0.5,Removed two frames to make room for the feeder
+5,3,2020-01-21,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,12,2020-08-07,OUTPUT,Food comb,0.5,Removed two frames to make room for the feeder
+6,12,2020-09-18,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+3,1,2020-04-17,QUEEN LOSS,,,
+5,5,2020-01-21,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,1,2019-07-29,SAMPLE,,,
+6,3,2019-11-08,SAMPLE,,,Collect bees for disease analysis
+4,3,2019-07-29,SAMPLE,,,
+5,8,2020-01-21,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,5,2019-07-29,SAMPLE,,,
+6,13,2020-09-26,OUTPUT,No input-output,2.3,Remove box for activity recordings
+3,2,2019-07-31,SAMPLE,,,
+5,10,2020-01-21,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+3,4,2019-07-31,SAMPLE,,,
+6,5,2019-11-08,SAMPLE,,,Collect bees for disease analysis
+4,1,2020-06-08,SAMPLE,,,
+5,9,2019-12-30,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,2,2020-06-08,SAMPLE,,,
+5,4,2020-02-04,OUTPUT,Foundation comb,1.16,2 comb frames
+4,12,2020-06-08,SAMPLE,,,
+6,1,2019-12-29,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,6,2020-07-13,SAMPLE,,,
+5,2,2019-11-12,SAMPLE,,,Collect bees for disease analysis
+4,11,2020-07-13,SAMPLE,,,
+6,3,2019-12-29,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,1,2019-04-03,SAMPLE,,,Nosema test
+5,4,2020-10-08,OUTPUT,No input-output,2.2,Remove box for activity recordings
+4,2,2019-04-03,SAMPLE,,,Nosema test
+6,7,2019-12-29,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+3,4,2019-04-03,SAMPLE,,,Nosema test
+5,4,2019-11-12,SAMPLE,,,Collect bees for disease analysis
+4,4,2019-04-03,SAMPLE,,,Nosema test
+6,4,2019-12-29,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,5,2019-04-03,SAMPLE,,,Nosema test
+6,17,2020-04-26,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+4,1,2020-05-07,SAMPLE,,,Sample for pesticides
+6,9,2019-12-29,INPUT,Oxalic acid,1.8,Oxalic acid treatment by evaporating
+4,6,2020-05-07,SAMPLE,,,Sample for pesticides
+5,2,2019-04-20,SWARM,,,First swarm
+4,12,2020-05-07,SAMPLE,,,Sample for pesticides
+5,2,2020-01-21,INPUT,Sucrose,2.5,Sugar paste
+4,2,2020-08-24,SAMPLE,,,Sample for varroa
+6,2,2019-10-10,OUTPUT,No input-output,6.1,Remove extra box from treatment
+4,11,2020-08-24,SAMPLE,,,Sample for varroa
+5,9,2020-01-21,INPUT,Sucrose,2.5,Sugar paste
+3,1,2019-05-13,SAMPLE,,,sample for virus test
+340,11,2021-01-21,CLINICAL SIGNS,,,app 10 mites in bottom tray
+3,3,2019-05-13,SAMPLE,,,sample for virus test
+5,4,2020-01-21,INPUT,Sucrose,2.5,Sugar paste
+3,5,2019-05-13,SAMPLE,,,sample for virus test
+5,7,2020-02-04,OUTPUT,Foundation comb,1.19,2 comb frames
+4,2,2019-05-15,SAMPLE,,,sample for virus test
+5,7,2020-01-21,INPUT,Sucrose,1.0,Sugar paste
+4,4,2019-05-15,SAMPLE,,,sample for virus test
+4,1,2019-04-03,CLINICAL SIGNS,,,
+4,2,2019-07-29,SAMPLE,,,sample for virus test
+6,3,2020-01-21,INPUT,Sucrose,2.5,Sugar paste
+4,5,2019-08-30,SAMPLE,,,sample for virus test
+6,4,2019-10-10,OUTPUT,No input-output,6.5,Remove extra box from treatment
+4,2,2019-09-25,SAMPLE,,,sample for virus test
+5,3,2019-09-27,INPUT,Sucrose,1.0,Sugar paste
+4,4,2019-09-25,SAMPLE,,,sample for virus test
+3,3,2019-04-03,CLINICAL SIGNS,,,
+3,4,2019-09-26,SAMPLE,,,sample for virus test
+5,9,2019-09-13,INPUT,Sucrose,1.0,Sugar paste
+3,1,2019-09-26,SAMPLE,,,sample for virus test
+6,13,2020-09-18,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+3,8,2019-09-26,SAMPLE,,,sample for virus test
+5,2,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+4,6,2020-07-03,SAMPLE,,,sample for virus test
+3,5,2019-04-03,CLINICAL SIGNS,,,
+4,12,2020-07-03,SAMPLE,,,sample for virus test
+5,6,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+4,11,2020-09-30,SAMPLE,,,Sample for virus
+5,1,2019-10-11,OUTPUT,No input-output,3.9,Remove extra box from treatment
+4,1,2020-09-30,SAMPLE,,,Sample for virus
+6,1,2019-10-10,INPUT,Sucrose,1.0,Sugar paste
+4,6,2020-07-29,SAMPLE,,,Sample of pollen
+4,5,2019-04-03,CLINICAL SIGNS,,,
+4,12,2020-07-29,SAMPLE,,,Sample of pollen
+6,3,2019-10-10,INPUT,Sucrose,1.0,Sugar paste
+4,6,2020-09-03,SAMPLE,,,Sample of pollen
+5,5,2020-02-04,OUTPUT,Foundation comb,1.33,3 comb frames
+4,12,2020-09-03,SAMPLE,,,Sample of pollen
+6,5,2019-10-10,INPUT,Sucrose,1.0,Sugar paste
+4,6,2020-06-22,SAMPLE,,,Samples for pesticides + pollen determination
+3,3,2019-04-25,CLINICAL SIGNS,,,
+4,1,2019-04-03,SAMPLE,,,Varroa inspection
+6,8,2019-10-10,INPUT,Sucrose,1.0,Sugar paste
+4,2,2019-04-03,SAMPLE,,,Varroa inspection
+5,3,2019-10-11,OUTPUT,No input-output,4.4,Remove extra box from treatment
+3,4,2019-04-03,SAMPLE,,,Varroa inspection
+5,1,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+4,4,2019-04-03,SAMPLE,,,Varroa inspection
+4,1,2019-04-26,CLINICAL SIGNS,,,
+4,5,2019-04-03,SAMPLE,,,Varroa inspection
+5,5,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+1,4,2019-09-09,CLINICAL SIGNS,,,2 headless larvae found
+1,5,2020-08-31,CLINICAL SIGNS,,,app 10 mites in bottom tray
+5,8,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+1,3,2020-08-31,CLINICAL SIGNS,,,app 15 mites in bottom tray
+4,2,2019-04-26,CLINICAL SIGNS,,,
+1,6,2020-08-13,CLINICAL SIGNS,,,app 50-60 mites in bottom tray - apiguard has worked
+6,1,2019-11-08,INPUT,Sucrose,2.5,Sugar paste
+1,2,2020-03-23,CLINICAL SIGNS,,,colony dead during winter-spring
+5,5,2019-10-11,OUTPUT,No input-output,4.5,Remove extra box from treatment
+2,3,2020-07-09,CLINICAL SIGNS,,,colony dead
+6,3,2019-11-08,INPUT,Sucrose,2.5,Sugar paste
+2,8,2020-07-30,CLINICAL SIGNS,,,every sign of starvation
+4,3,2019-04-26,CLINICAL SIGNS,,,
+1,4,2019-09-09,CLINICAL SIGNS,,,few
+6,5,2019-11-08,INPUT,Sucrose,2.5,Sugar paste
+1,8,2019-09-09,CLINICAL SIGNS,,,few
+5,4,2020-08-12,OUTPUT,Honey,12.1,Honey suppers removed for honey collection
+2,5,2019-04-24,CLINICAL SIGNS,,,few bees
+6,8,2019-11-08,INPUT,Sucrose,2.5,Sugar paste
+1,7,2020-06-18,CLINICAL SIGNS,,,galleries inside frames
+4,5,2019-04-26,CLINICAL SIGNS,,,
+1,1,2019-05-15,CLINICAL SIGNS,,,in frame 5
+5,1,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+1,1,2019-04-04,CLINICAL SIGNS,,,
+5,10,2020-10-08,OUTPUT,No input-output,2.0,Remove pollen trap
+2,6,2019-05-14,CLINICAL SIGNS,,,
+5,9,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+2,6,2019-07-09,CLINICAL SIGNS,,,
+3,3,2019-05-13,CLINICAL SIGNS,,,
+1,2,2019-06-03,CLINICAL SIGNS,,,
+5,2,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+1,2,2019-06-03,CLINICAL SIGNS,,,
+6,16,2020-09-18,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,2,2019-08-20,CLINICAL SIGNS,,,
+5,4,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+1,4,2019-04-25,CLINICAL SIGNS,,,
+4,3,2019-05-15,CLINICAL SIGNS,,,
+2,1,2019-07-08,CLINICAL SIGNS,,,
+5,7,2019-11-12,INPUT,Sucrose,2.5,Sugar paste
+2,2,2019-05-14,CLINICAL SIGNS,,,
+6,12,2020-09-26,OUTPUT,No input-output,2.2,Remove box for activity recordings
+2,1,2020-04-28,CLINICAL SIGNS,,,no varrora in bottom tray
+5,2,2020-04-11,INPUT,Sucrose,1.0,Sugar paste
+2,1,2020-06-03,CLINICAL SIGNS,,,no varrora in bottom tray
+3,2,2019-05-29,CLINICAL SIGNS,,,
+2,1,2020-07-09,CLINICAL SIGNS,,,no varrora in bottom tray
+5,4,2020-04-11,INPUT,Sucrose,1.0,Sugar paste
+2,1,2020-08-18,CLINICAL SIGNS,,,no varrora in bottom tray
+5,3,2020-08-12,OUTPUT,Honey,16.8,Honey suppers removed for honey collection
+2,2,2020-05-14,CLINICAL SIGNS,,,no varrora in bottom tray
+5,5,2020-04-11,INPUT,Sucrose,2.5,Sugar paste
+2,2,2020-06-23,CLINICAL SIGNS,,,no varrora in bottom tray
+3,3,2019-05-29,CLINICAL SIGNS,,,
+2,2,2020-07-28,CLINICAL SIGNS,,,no varrora in bottom tray
+5,7,2020-04-11,INPUT,Sucrose,1.0,Sugar paste
+2,4,2020-04-28,CLINICAL SIGNS,,,no varrora in bottom tray
+5,1,2019-09-13,OUTPUT,No input-output,1.9,Remove weight from rooftop
+2,4,2020-06-22,CLINICAL SIGNS,,,no varrora in bottom tray
+5,11,2020-04-11,INPUT,Sucrose,1.0,Sugar paste
+2,4,2020-07-09,CLINICAL SIGNS,,,no varrora in bottom tray
+3,4,2019-05-29,CLINICAL SIGNS,,,
+2,4,2020-08-17,CLINICAL SIGNS,,,no varrora in bottom tray
+6,12,2020-10-29,INPUT,Sucrose,2.5,Sugar paste
+2,5,2020-05-14,CLINICAL SIGNS,,,no varrora in bottom tray
+6,19,2020-04-26,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,5,2020-06-22,CLINICAL SIGNS,,,no varrora in bottom tray
+6,15,2020-10-29,INPUT,Sucrose,2.5,Sugar paste
+2,5,2020-07-28,CLINICAL SIGNS,,,no varrora in bottom tray
+3,3,2019-04-25,CLINICAL SIGNS,,,
+2,7,2020-04-28,CLINICAL SIGNS,,,no varrora in bottom tray
+6,15,2021-01-14,INPUT,Sucrose,1.0,Sugar paste
+2,7,2020-06-03,CLINICAL SIGNS,,,no varrora in bottom tray
+6,13,2020-10-29,OUTPUT,Super + 10 frames,8.0,8 frame honey supper with wax comb
+2,7,2020-07-09,CLINICAL SIGNS,,,no varrora in bottom tray
+5,3,2020-12-02,INPUT,Sucrose,1.0,Sugar paste
+2,7,2020-08-17,CLINICAL SIGNS,,,no varrora in bottom tray
+4,3,2019-06-11,CLINICAL SIGNS,,,
+1,1,2020-05-13,CLINICAL SIGNS,,,no varrora in bottom tray
+6,13,2020-05-15,INPUT,Super + 10 frames,6.8,8 frame honey supper with laminated wax
+1,1,2020-06-19,CLINICAL SIGNS,,,no varrora in bottom tray
+5,2,2020-08-12,OUTPUT,Honey,18.5,Honey suppers removed for honey collection
+1,1,2020-07-27,CLINICAL SIGNS,,,no varrora in bottom tray
+6,15,2020-05-08,INPUT,Super + 10 frames,6.11,8 frame honey supper with laminated wax
+1,3,2020-04-24,CLINICAL SIGNS,,,no varrora in bottom tray
+4,1,2019-06-11,CLINICAL SIGNS,,,
+1,3,2020-06-02,CLINICAL SIGNS,,,no varrora in bottom tray
+6,12,2020-04-26,INPUT,Super + 10 frames,7.13,8 frame honey supper with laminated wax
+1,3,2020-07-08,CLINICAL SIGNS,,,no varrora in bottom tray
+6,16,2020-10-29,OUTPUT,Super + 10 frames,7.7,8 frame honey supper with wax comb
+1,5,2020-04-24,CLINICAL SIGNS,,,no varrora in bottom tray
+6,14,2020-04-26,INPUT,Super + 10 frames,6.7,8 frame honey supper with laminated wax
+1,5,2020-06-02,CLINICAL SIGNS,,,no varrora in bottom tray
+4,3,2019-06-11,CLINICAL SIGNS,,,
+1,5,2020-07-08,CLINICAL SIGNS,,,no varrora in bottom tray
+6,18,2020-05-08,INPUT,Super + 10 frames,5.3,8 frame honey supper with laminated wax
+1,5,2020-08-13,CLINICAL SIGNS,,,no varrora in bottom tray
+5,11,2020-10-21,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,6,2020-05-13,CLINICAL SIGNS,,,no varrora in bottom tray
+6,12,2020-04-08,INPUT,Super + 10 frames,7.36,8 frame honey supper with wax comb
+1,6,2020-06-18,CLINICAL SIGNS,,,no varrora in bottom tray
+4,5,2019-06-14,CLINICAL SIGNS,,,
+1,6,2020-07-27,CLINICAL SIGNS,,,no varrora in bottom tray
+6,12,2020-07-21,INPUT,Super + 10 frames,7.35,8 frame honey supper with wax comb
+1,7,2020-04-22,CLINICAL SIGNS,,,no varrora in bottom tray
+6,17,2020-04-26,OUTPUT,Super + 10 frames,8.5,8 frame honey supper with wax comb
+1,7,2020-06-02,CLINICAL SIGNS,,,no varrora in bottom tray
+6,15,2020-03-19,INPUT,Super + 10 frames,7.34,8 frame honey supper with wax comb
+1,7,2020-07-08,CLINICAL SIGNS,,,no varrora in bottom tray
+3,8,2019-06-14,CLINICAL SIGNS,,,
+1,7,2020-08-13,CLINICAL SIGNS,,,no varrora in bottom tray
+5,9,2020-03-26,INPUT,Super + 10 frames,7.1,8 frame honey supper with wax comb
+1,7,2019-07-30,CLINICAL SIGNS,,,not more than in other hives
+5,8,2020-08-12,OUTPUT,Honey,16.7,Honey suppers removed for honey collection
+1,1,2020-04-22,CLINICAL SIGNS,,,on two frames
+5,3,2020-03-23,INPUT,Super + 10 frames,7.3,8 frame honey supper with wax comb
+2,3,2020-07-09,CLINICAL SIGNS,,,signs of cannibalism
+3,2,2019-06-12,CLINICAL SIGNS,,,
+1,3,2019-05-15,CLINICAL SIGNS,,,signs of diarrhea
+6,16,2020-04-08,INPUT,Super + 10 frames,7.16,8 frame honey supper with wax comb
+1,3,2019-06-24,CLINICAL SIGNS,,,signs of diarrhea
+6,2,2019-08-04,OUTPUT,Super + 10 frames,7.4,Remove honey supper with honey left from extraction
+1,4,2019-05-15,CLINICAL SIGNS,,,signs of diarrhea
+6,16,2020-03-19,INPUT,Super + 10 frames,7.23,8 frame honey supper with wax comb
+1,4,2019-04-04,CLINICAL SIGNS,,,signs of starvation
+3,3,2019-06-12,CLINICAL SIGNS,,,
+2,2,2019-04-24,CLINICAL SIGNS,,,some bees
+6,14,2020-03-19,INPUT,Super + 10 frames,7.4,8 frame honey supper with wax comb
+1,8,2019-05-15,CLINICAL SIGNS,,,some bees dead on hive bottom
+6,15,2020-04-26,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,4,2019-07-11,CLINICAL SIGNS,,,some dead bees
+5,8,2020-03-23,INPUT,Super + 10 frames,7.3,9 frame honey supper with wax comb
+2,1,2020-05-14,CLINICAL SIGNS,,,some spots observed
+3,3,2019-05-29,CLINICAL SIGNS,,,
+1,8,2019-07-10,CLINICAL SIGNS,,,to some extent
+6,18,2020-04-08,INPUT,Super + 10 frames,8.5,9 frame honey supper with wax comb
+2,4,2020-05-14,CLINICAL SIGNS,,,to some extent
+6,3,2019-08-04,OUTPUT,Super + 10 frames,6.8,Remove honey supper with honey left from extraction
+1,3,2020-07-27,CLINICAL SIGNS,,,two mites in bottom tray
+6,11,2020-07-21,INPUT,Super + 10 frames,7.81,8 frame honey supper with wax comb
+2,7,2020-09-03,CLINICAL SIGNS,,,varrora 15-20 pcs. in bottom of hive
+4,5,2019-06-26,CLINICAL SIGNS,,,
+2,9,2020-09-03,CLINICAL SIGNS,,,varrora 5-10 pcs. in bottom of hive
+6,17,2020-07-21,INPUT,Super + 10 frames,7.06,8 frame honey supper with wax comb
+2,5,2020-09-03,CLINICAL SIGNS,,,varrora mites 7 pcs. in the tray on the bottom of the hive
+6,1,2019-07-09,OUTPUT,Honey,23.4,Honey suppers removed for honey collection
+1,1,2019-06-03,INPUT,Super + 10 frames,4.9,added 1 super and 10 frames
+6,18,2020-07-21,INPUT,Super + 10 frames,6.5,8 frame honey supper with wax comb
+2,8,2019-08-08,INPUT,Sucrose,1.25,apifonda
+3,3,2019-06-28,CLINICAL SIGNS,,,
+2,6,2019-07-09,INPUT,Sucrose,1.25,apifonda
+6,3,2019-05-02,INPUT,Super + 10 frames,7.3,8 frame honey supper with wax comb
+2,2,2019-08-08,INPUT,Sucrose,1.25,apifonda
+6,4,2019-09-26,OUTPUT,Super + 10 frames,13.6,Remove honey supper with honey left from extraction
+2,5,2019-08-08,INPUT,Sucrose,1.25,apifonda
+6,1,2019-04-14,INPUT,Super + 10 frames,9.3,Upper nest with 8 wax comb frames added
+2,8,2019-07-09,INPUT,Sucrose,1.25,apifonda
+3,8,2019-06-28,CLINICAL SIGNS,,,
+1,3,2019-06-24,INPUT,Sucrose,1.25,apifonda
+5,5,2019-03-28,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+1,4,2019-07-30,INPUT,Sucrose,1.25,apifonda
+5,3,2020-10-21,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,7,2019-06-20,INPUT,Sucrose,0.5,apifonda
+6,2,2019-03-27,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+1,8,2019-08-09,INPUT,Sucrose,1.25,apifonda
+4,2,2019-07-15,CLINICAL SIGNS,,,
+2,4,2019-07-08,INPUT,Sucrose,1.25,apifonda
+5,3,2019-03-28,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+2,5,2019-06-18,INPUT,Sucrose,1.0,apifonda
+6,5,2019-09-26,OUTPUT,Super + 10 frames,14.0,Remove honey supper with honey left from extraction
+2,7,2020-09-23,INPUT,Sucrose,0.3,apifonda
+5,6,2019-03-28,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+2,8,2020-09-23,INPUT,Sucrose,0.3,apifonda
+3,1,2019-07-17,CLINICAL SIGNS,,,
+1,1,2020-04-07,INPUT,Sucrose,0.81,apifonda
+6,6,2019-03-27,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+1,3,2020-04-07,INPUT,Sucrose,0.81,apifonda
+6,3,2019-07-09,OUTPUT,Honey,48.7,Honey suppers removed for honey collection
+1,5,2020-04-07,INPUT,Sucrose,0.81,apifonda
+6,10,2019-04-13,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+2,8,2020-04-09,INPUT,Sucrose,0.81,apifonda
+3,4,2019-07-17,CLINICAL SIGNS,,,
+2,7,2020-04-09,INPUT,Sucrose,0.81,apifonda
+6,9,2019-05-01,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+2,4,2020-04-09,INPUT,Sucrose,0.81,apifonda
+5,7,2019-06-09,QUEEN LOSS,,,No queen
+2,2,2020-04-09,INPUT,Sucrose,0.81,apifonda
+6,4,2019-03-27,INPUT,Super + 10 frames,10.0,Upper nest with laminated wax
+1,5,2020-09-23,INPUT,Sucrose,0.3,Apifonda added together with queen shift
+4,3,2019-07-31,CLINICAL SIGNS,,,
+2,1,2020-09-23,INPUT,Sucrose,0.3,apifonda together with queen shift
+5,1,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,1,2020-09-23,INPUT,Sucrose,0.3,apifonda together with queen shift
+6,1,2019-04-14,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,7,2020-09-23,INPUT,Sucrose,0.3,apifonda together with queen shift
+5,3,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,2,2020-06-23,INPUT,Foundation comb,0.23,comb no 41 ny - added instead of no 41
+3,2,2019-07-30,CLINICAL SIGNS,,,
+2,3,2020-06-22,INPUT,Sucrose,1.385,food comb no. 41 from hive 2
+5,5,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,1,2019-06-18,INPUT,Super + 10 frames,4.9,frame 31-40
+6,10,2019-05-20,QUEEN LOSS,,,No queen
+2,1,2019-04-23,INPUT,Super + 10 frames,4.9,frame no. 11-20
+5,2,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,1,2019-08-19,INPUT,Thymol,1.0,
+3,3,2019-07-30,CLINICAL SIGNS,,,
+1,8,2020-06-02,INPUT,Super + 10 frames,4.9,new super and 10 frames added
+5,4,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,4,2019-07-08,INPUT,Queen excluder,1.0,queen excluder added
+6,5,2019-07-09,OUTPUT,Honey,30.4,Honey suppers removed for honey collection
+1,6,2019-07-30,INPUT,Queen excluder,1.0,queen excluder added
+5,5,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,3,2019-07-08,INPUT,Queen excluder,1.0,queen excluder added over bottom super
+4,2,2019-08-30,CLINICAL SIGNS,,,
+2,7,2019-08-16,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+5,8,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,8,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+6,16,2020-05-15,QUEEN LOSS,,,Queen killed or harmed during inspection
+2,4,2019-08-21,INPUT,Sucrose,2.0,sucrose added-ApiInvert
+5,10,2019-09-13,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,2,2019-08-21,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+4,3,2019-08-30,CLINICAL SIGNS,,,
+2,9,2019-09-18,INPUT,Sucrose,2.0,sucrose added-ApiInvert
+5,8,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,7,2019-09-18,INPUT,Sucrose,1.0,sucrose added-ApiInvert
+5,8,2020-10-21,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,5,2019-09-18,INPUT,Sucrose,1.0,sucrose added-ApiInvert
+5,10,2019-09-27,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,5,2019-09-04,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+4,4,2019-08-30,CLINICAL SIGNS,,,
+1,4,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+6,1,2019-09-11,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,6,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+6,18,2020-04-26,QUEEN LOSS,,,Queen killed or harmed during inspection
+1,7,2019-09-09,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+6,3,2019-09-11,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,8,2019-09-09,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+4,5,2019-08-30,CLINICAL SIGNS,,,
+1,6,2019-09-23,INPUT,Sucrose,4.0,sucrose added-ApiInvert
+6,6,2019-09-11,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,4,2019-09-23,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+6,7,2019-07-09,OUTPUT,Honey,60.0,Honey suppers removed for honey collection
+2,6,2019-09-04,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+6,8,2019-09-11,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,8,2019-09-04,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+3,4,2019-08-29,CLINICAL SIGNS,,,
+2,9,2019-09-04,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+6,1,2019-09-26,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,7,2019-09-23,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+6,5,2019-06-03,QUEEN LOSS,,,We found a virgin queen but no signs of swarming
+1,2,2019-09-23,INPUT,Sucrose,4.0,sucrose added-ApiInvert
+6,3,2019-09-26,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,3,2019-09-06,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+4,3,2019-09-25,CLINICAL SIGNS,,,
+1,4,2019-09-09,INPUT,Sucrose,5.5,sucrose added-ApiInvert
+2,4,2020-04-23,INPUT,Super + 10 frames,4.9,super added + frames no. 21-30
+1,5,2019-09-06,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+6,9,2019-09-26,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+1,6,2019-09-06,INPUT,Sucrose,3.0,sucrose added-ApiInvert
+1,3,2020-04-24,INPUT,Super + 10 frames,4.9,super added + frames no. 21-30
+2,1,2019-08-16,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+4,12,2020-05-03,CLINICAL SIGNS,,,
+2,1,2019-09-18,INPUT,Sucrose,2.0,sucrose added-ApiInvert
+1,1,2020-04-22,INPUT,Super + 10 frames,4.9,super added + frames no. 31-40
+2,2,2019-09-04,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+5,1,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+2,3,2019-08-16,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+2,3,2020-06-03,INPUT,Super + 10 frames,4.9,super added + frames no. 31-40
+2,3,2019-09-18,INPUT,Sucrose,2.0,sucrose added-ApiInvert
+4,2,2020-06-03,CLINICAL SIGNS,,,
+2,1,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+1,3,2020-05-13,INPUT,Super + 10 frames,4.9,super added + frames no. 31-40
+2,4,2019-09-18,INPUT,Sucrose,2.0,sucrose added-ApiInvert
+6,10,2019-07-09,OUTPUT,Honey,17.1,Honey suppers removed for honey collection
+2,3,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+1,1,2020-05-13,INPUT,Super + 10 frames,4.9,super added + frames no. 41-50
+2,5,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,11,2020-06-03,CLINICAL SIGNS,,,
+2,9,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,2,2020-06-03,INPUT,Super + 10 frames,4.9,super added + frames no. 41-50
+1,2,2019-08-28,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+5,3,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+1,2,2019-08-20,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+1,5,2020-06-02,INPUT,Super + 10 frames,4.9,super added + frames no. 41-50
+1,3,2019-08-19,INPUT,Sucrose,6.25,sucrose added-ApiInvert
+4,6,2020-06-17,CLINICAL SIGNS,,,
+2,8,2019-08-21,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+2,4,2019-04-24,INPUT,Super + 10 frames,4.9,super with frames no. 11-20 added
+2,6,2019-08-21,INPUT,Sucrose,2.5,sucrose added-ApiInvert
+5,7,2020-10-21,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,1,2020-09-03,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+1,4,2019-08-19,INPUT,Thymol,1.0,thymol added
+2,1,2020-09-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,6,2020-06-22,CLINICAL SIGNS,,,
+2,2,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+1,3,2019-08-19,INPUT,Thymol,1.0,thymol added
+2,2,2020-09-03,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+5,5,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+2,4,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+1,6,2019-08-20,INPUT,Thymol,1.0,thymol added
+2,4,2020-09-03,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,6,2020-09-03,CLINICAL SIGNS,,,
+2,5,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,2,2019-08-21,INPUT,Thymol,1.0,thymol added
+2,5,2020-09-03,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+5,4,2019-08-30,OUTPUT,Honey,24.7,Honey suppers removed for honey collection
+2,7,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,4,2019-08-21,INPUT,Thymol,1.0,thymol added
+2,7,2020-09-03,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,1,2019-04-03,CLINICAL SIGNS,,,Several frames
+2,8,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,6,2019-08-21,INPUT,Thymol,1.0,thymol added
+2,8,2020-09-03,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+5,7,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+2,9,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,8,2019-08-21,INPUT,Thymol,1.0,thymol added
+2,9,2020-09-03,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,6,2020-07-17,INPUT,Sucrose,2.5,apifonda
+1,1,2020-09-04,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,1,2020-08-27,INPUT,Thymol,1.0,thymol added
+1,3,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+6,3,2019-04-14,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,3,2020-09-04,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,2,2020-08-21,INPUT,Thymol,1.0,thymol added
+1,5,2020-09-04,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+4,6,2020-08-07,INPUT,Sucrose,2.5,apifonda
+1,6,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,4,2020-08-21,INPUT,Thymol,1.0,thymol added
+1,7,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+5,9,2019-03-14,SAMPLE,,,Collect beebread and nectar samples
+1,8,2020-08-21,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+2,5,2020-08-21,INPUT,Thymol,1.0,thymol added
+1,3,2020-08-27,INPUT,Sucrose,5.0,sucrose added-ApiInvert
+4,3,2019-08-30,INPUT,Sucrose,6.7,ApiInvert
+1,6,2020-08-27,INPUT,Sucrose,5.0,sucrose added-ApiInvert
+2,7,2020-08-21,INPUT,Thymol,1.0,thymol added
+1,8,2020-08-27,INPUT,Sucrose,6.0,sucrose added-ApiInvert
+6,12,2020-07-10,OUTPUT,Honey,38.0,Honey suppers removed for honey collection
+1,5,2019-05-15,INPUT,Super + 10 frames,4.9,super + 10 frames added
+2,8,2020-08-21,INPUT,Thymol,1.0,thymol added
+2,7,2020-06-03,INPUT,Super + 10 frames,4.9,super + 10 frames added
+4,11,2020-08-17,INPUT,Sucrose,8.0,ApiInvert
+1,8,2020-04-24,INPUT,Super + 10 frames,4.9,super + 10 frames added
+2,9,2020-08-21,INPUT,Thymol,1.0,thymol added
+1,2,2019-04-25,INPUT,Super + 10 frames,4.9,super added
+6,1,2019-03-12,SAMPLE,,,Collect beebread and nectar samples
+1,3,2019-04-25,INPUT,Super + 10 frames,4.9,super added
+1,1,2020-08-21,INPUT,Thymol,1.0,thymol added
+1,5,2019-04-25,INPUT,Super + 10 frames,4.9,super added
+4,2,2020-08-17,INPUT,Sucrose,6.7,ApiInvert
+1,6,2019-06-04,INPUT,Super + 10 frames,4.9,super added
+1,3,2020-08-21,INPUT,Thymol,1.0,thymol added
+2,3,2019-06-18,INPUT,Super + 10 frames,4.9,super added
+5,4,2020-05-22,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,1,2020-04-28,INPUT,Super + 10 frames,4.9,super added
+1,7,2020-08-21,INPUT,Thymol,1.0,thymol added
+2,8,2020-06-04,INPUT,Super + 10 frames,4.9,super added + 10 frames
+4,1,2020-08-07,INPUT,Sucrose,7.4,ApiInvert
+1,1,2020-06-02,INPUT,Super + 10 frames,4.9,super added + frames no. 1-10
+1,3,2020-08-27,INPUT,Thymol,1.0,thymol added
+1,5,2020-05-13,INPUT,Super + 10 frames,4.9,super added + frames no. 1-10
+6,4,2019-03-12,SAMPLE,,,Collect beebread and nectar samples
+2,3,2019-04-24,INPUT,Super + 10 frames,4.9,super added + frames no. 11-20
+1,6,2020-08-27,INPUT,Thymol,1.0,thymol added
+2,2,2019-05-29,INPUT,Super + 10 frames,4.9,super added + frames no. 21-30
+4,11,2020-08-07,INPUT,Sucrose,6.6,ApiInvert
+2,4,2019-05-29,INPUT,Super + 10 frames,4.9,super added + frames no. 21-30
+1,8,2020-08-27,INPUT,Thymol,1.0,thymol added
+2,2,2020-07-28,OTHER,,,384 dead bees in front of hive
+6,15,2020-07-10,OUTPUT,Honey,34.9,Honey suppers removed for honey collection
+2,2,2020-06-03,OTHER,,,386 dead bees in front of hive
+2,3,2019-06-18,INPUT,Foundation comb,0.46,two foundationscombs added
+1,4,2019-05-15,OTHER,,,39 dead bees in front of hive
+4,11,2020-09-01,INPUT,Sucrose,8.3,ApiInvert
+2,3,2019-09-04,OTHER,,,395 dead bees in front of hive
+1,2,2019-07-30,OTHER,,,104 dead bees in front of hive
+1,3,2019-07-30,OTHER,,,397 dead bees in front of hive
+6,3,2019-03-12,SAMPLE,,,Collect beebread and nectar samples
+2,4,2020-06-03,OTHER,,,403 dead bees in front of hive
+2,7,2019-05-29,OTHER,,,110 gram burr or brace removed
+1,3,2019-09-06,OTHER,,,423 dead bees in front of hive
+4,2,2020-09-01,INPUT,Sucrose,11.3,ApiInvert
+1,5,2020-06-02,OTHER,,,430 dead bees in front of hive
+2,2,2020-04-28,OTHER,,,111 dead bees in front of hive
+1,1,2020-07-08,OTHER,,,441 dead bees in front of hive
+6,12,2020-04-26,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,5,2020-05-14,OTHER,,,454 dead bees in front of hive
+2,3,2019-08-16,OTHER,,,1156 dead bees in front of hive
+1,3,2020-07-08,OTHER,,,472 dead bees in front of hive
+4,6,2020-07-09,INPUT,Queen excluder,0.5,Bee emptier added
+1,7,2020-07-27,OTHER,,,479 dead bees in front of hive
+2,7,2019-05-14,OTHER,,,120 gram burr or brace comb removed
+2,1,2019-06-18,OTHER,,,488 dead bees in front of hive
+6,7,2019-04-13,SAMPLE,,,Collect beebread and nectar samples
+2,4,2019-07-29,OTHER,,,503 dead bees in front of hive
+2,2,2019-05-29,OTHER,,,124 dead bees in front of hive
+2,1,2020-09-03,OTHER,,,527 dead bees in front of hive
+6,11,2021-02-13,CLINICAL SIGNS,,,Colony temperature became unstable at 05 of February
+1,4,2019-04-25,OTHER,,,54 dead bees in front of hive
+1,6,2020-07-08,OTHER,,,126 dead bees in front of hive
+1,5,2020-07-08,OTHER,,,551 dead bees in front of hive
+6,17,2020-07-10,OUTPUT,Honey,26.8,Honey suppers removed for honey collection
+2,4,2019-05-29,OTHER,,,560 dead bees in front of hive
+2,1,2019-05-29,OTHER,,,127 dead bees in front of hive
+1,6,2020-08-31,OTHER,,,565 dead bees in front of hive
+6,4,2020-02-03,CLINICAL SIGNS,,,Colony with only one frame with bees. To weak to survive.
+1,1,2020-06-19,OTHER,,,604 dead bees in front of hive
+2,3,2019-04-24,OTHER,,,139 dead bees in front of hive
+1,7,2020-04-22,OTHER,,,61 dead bees in front of hive
+6,9,2019-04-13,SAMPLE,,,Collect beebread and nectar samples
+2,3,2019-07-08,OTHER,,,625 dead bees in front of hive
+1,6,2020-07-27,OTHER,,,147 dead bees in front of hive
+2,1,2020-06-22,OTHER,,,633 dead bees in front of hive
+5,6,2020-01-21,CLINICAL SIGNS,,,Dead colony - Cold (they had sugar paste on top)
+2,7,2020-08-17,OTHER,,,649 dead bees in front of hive
+1,7,2020-06-18,OTHER,,,1522 dead bees in front of hive
+2,5,2020-06-22,OTHER,,,663 dead bees in front of hive
+5,8,2020-05-22,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,4,2019-07-30,OTHER,,,67 dead bees in front of hive
+2,1,2020-04-28,OTHER,,,157 bees dead outside hive
+2,5,2020-08-17,OTHER,,,672 dead bees in front of hive
+5,4,2020-10-21,CLINICAL SIGNS,,,Didn't manage to replace the queen
+1,5,2020-06-18,OTHER,,,691 dead bees in front of hive
+1,2,2019-07-10,OTHER,,,159 dead bees in front of hive
+2,4,2020-09-03,OTHER,,,712 dead bees in front of hive
+5,1,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+2,4,2019-06-19,OTHER,,,746 dead bees in front of hive
+2,5,2019-07-09,OTHER,,,165 dead bees in front of hive
+1,5,2019-08-19,OTHER,,,818 dead bees in front of hive
+6,1,2020-01-21,CLINICAL SIGNS,,,
+1,6,2020-04-24,OTHER,,,89 dead bees in front of hive
+2,5,2019-05-29,OTHER,,,171 dead bees in front of hive
+2,7,2020-09-03,OTHER,,,946 dead bees in front of hive
+6,19,2020-07-10,OUTPUT,Honey,51.7,Honey suppers removed for honey collection
+1,6,2020-05-13,OTHER,,,98 dead bees in front of hive
+2,4,2020-04-28,OTHER,,,176 dead bees in front of hive
+2,7,2019-06-19,OTHER,,,a bit of burr or brace removed
+6,5,2020-01-21,CLINICAL SIGNS,,,
+2,7,2020-05-15,OTHER,,,burr comb removed
+1,5,2020-05-13,OTHER,,,186 dead bees in front of hive
+1,1,2019-07-30,OTHER,,,dead drones above queenexcluder
+5,3,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+2,9,2019-05-01,OTHER,,,extra hive from Flakkebjerg
+2,3,2020-05-14,OTHER,,,191 dead bees in front of hive
+1,5,2020-08-10,OTHER,,,Flight board gap decreased by half - to make it easier for the bees to defend the hive
+6,8,2020-01-21,CLINICAL SIGNS,,,
+1,8,2020-08-10,OTHER,,,Flight board gap decreased by half - to make it easier for the bees to defend the hive
+2,4,2019-04-24,OTHER,,,202 dead bees in front of hive
+2,5,2020-08-06,OTHER,,,hit by a fallen tree
+6,5,2019-04-14,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,7,2020-08-10,OTHER,,,Honey and pollen resources are fine.
+1,6,2020-08-13,OTHER,,,209 dead bees in front of hive
+2,3,2020-07-09,OTHER,,,many bees outside and really many inside hive dead.
+6,3,2020-03-17,CLINICAL SIGNS,,,
+1,5,2020-04-07,OTHER,,,moved from winter location in Hinnerup to Foulum
+2,4,2020-07-09,OTHER,,,221 dead bees in front of hive
+1,3,2020-04-07,OTHER,,,moved from winter location in Hinnerup to Foulum
+5,5,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+2,5,2020-09-23,OTHER,,,new queen added
+2,1,2020-07-28,OTHER,,,232 dead bees in front of hive
+1,6,2020-09-23,OTHER,,,new queen added
+6,19,2020-10-29,CLINICAL SIGNS,,,
+1,8,2020-09-23,OTHER,,,new queen added
+1,6,2020-06-18,OTHER,,,238 dead bees in front of hive
+2,4,2020-08-27,OTHER,,,new queen is accepted and is laying eggs.
+6,16,2020-07-10,OUTPUT,Honey,47.3,Honey suppers removed for honey collection (except frames 22 and 23)
+2,2,2020-09-23,OTHER,,,new quen added
+2,1,2020-07-09,OTHER,,,246 dead bees in front of hive
+2,9,2020-09-23,OTHER,,,new quen added
+6,6,2019-10-10,CLINICAL SIGNS,,,
+1,3,2020-07-08,OTHER,,,not marked queen found and marked with green
+1,7,2020-06-02,OTHER,,,252 dead bees in front of hive
+2,4,2020-07-31,OTHER,,,queen cell not hatched.
+5,7,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+1,8,2020-07-08,OTHER,,,queen marked - must have hatched a new
+1,3,2020-04-24,OTHER,,,26 dead bees in front of hive
+2,3,2020-04-28,OTHER,,,small family - queen not seen
+6,12,2020-07-21,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,7,2020-07-09,OTHER,,,super three with frames no. 1-6 + 8
+2,4,2020-05-14,OTHER,,,263 dead bees in front of hive
+1,5,2020-08-10,OTHER,,,suspects robery
+5,11,2020-04-11,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,5,2020-09-03,OTHER,,,two closed queen cells
+1,3,2019-04-25,OTHER,,,28 dead bees in front of hive
+2,1,2019-08-16,OTHER,,,varroa observed on a few bees
+6,11,2020-03-17,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,6,2019-05-29,OTHER,,,very small family
+2,4,2020-08-17,OTHER,,,284 dead bees in front of hive
+2,1,2019-09-18,OUTPUT,Foundation comb,0.69,3 frames removed no. 24-26
+5,9,2019-09-12,SAMPLE,,,Collect beebread and nectar samples
+2,1,2020-06-22,OUTPUT,Honey,15.54,6 frames honey frames removed
+1,3,2020-06-02,OTHER,,,290 dead bees in front of hive
+2,1,2020-04-28,OUTPUT,Foundation comb,0.017,burr comb removed
+6,16,2020-07-21,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,1,2020-06-03,OUTPUT,Foundation comb,0.06,burr comb removed
+1,1,2019-07-30,OTHER,,,291 dead bees in front of hive
+2,1,2020-07-09,OUTPUT,Foundation comb,0.55,burr comb removed
+6,4,2019-03-09,OUTPUT,No input-output,42.0,Dead bees in the tray
+2,2,2020-06-23,OUTPUT,Foundation comb,0.009,burr comb removed
+2,5,2019-07-29,OTHER,,,300 dead bees in front of hive
+2,2,2020-09-23,OUTPUT,Food comb,0.005,burr comb removed
+6,18,2020-07-21,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,4,2020-06-22,OUTPUT,Foundation comb,0.29,burr comb removed
+2,3,2020-06-22,OTHER,,,303 dead bees in front of hive
+2,4,2020-07-28,OUTPUT,Foundation comb,0.11,burr comb removed
+6,1,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+2,5,2020-06-03,OUTPUT,Foundation comb,0.03,burr comb removed
+1,1,2019-07-11,OTHER,,,318 dead bees in front of hive
+2,5,2020-07-09,OUTPUT,Foundation comb,0.07,burr comb removed
+6,14,2020-07-21,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,5,2020-09-03,OUTPUT,Foundation comb,0.03,burr comb removed
+1,3,2019-08-19,OTHER,,,329 dead bees in front of hive
+2,7,2020-06-23,OUTPUT,Foundation comb,0.16,burr comb removed
+6,7,2019-09-26,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+2,7,2020-07-28,OUTPUT,Foundation comb,0.145,burr comb removed
+1,1,2019-08-19,OTHER,,,330 dead bees in front of hive
+2,7,2020-09-23,OUTPUT,Foundation comb,0.05,burr comb removed
+5,5,2020-08-24,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,9,2020-06-04,OUTPUT,Foundation comb,0.15,burr comb removed
+2,2,2020-07-09,OTHER,,,338 dead bees in front of hive
+2,9,2020-07-09,OUTPUT,Foundation comb,0.04,burr comb removed
+6,3,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+2,9,2020-09-03,OUTPUT,Foundation comb,0.04,burr comb removed
+1,2,2019-05-15,OTHER,,,35 dead bees in front of hive
+1,1,2020-07-08,OUTPUT,Foundation comb,0.107,burr comb removed
+5,2,2020-03-23,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+1,3,2020-07-27,OUTPUT,Foundation comb,0.025,burr comb removed
+1,5,2020-08-13,OTHER,,,353 dead bees in front of hive
+1,3,2020-09-23,OUTPUT,Foundation comb,0.005,burr comb removed
+5,1,2019-03-10,OUTPUT,No input-output,53.0,Dead bees in the tray
+1,5,2020-07-08,OUTPUT,Foundation comb,0.066,burr comb removed
+2,2,2019-07-08,OTHER,,,371 dead bees in front of hive
+1,6,2020-08-31,OUTPUT,Foundation comb,0.175,burr comb removed
+5,4,2020-03-23,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+1,7,2020-06-18,OUTPUT,Foundation comb,0.026,burr comb removed
+2,1,2020-08-18,OTHER,,,375 dead bees in front of hive
+1,7,2020-07-27,OUTPUT,Foundation comb,0.03,burr comb removed
+6,5,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+1,8,2020-07-27,OUTPUT,Foundation comb,0.325,burr comb removed
+1,7,2020-07-08,OTHER,,,376 dead bees in front of hive
+1,4,2019-06-24,OUTPUT,Foundation comb,6.0,comb no. 4
+5,8,2020-03-23,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,6,2019-09-04,OUTPUT,Foundation comb,1.0,comb removed due to mold
+1,4,2019-08-19,OTHER,,,38 dead bees in front of hive
+1,5,2019-08-19,OUTPUT,Food comb,16.0,combs no. 1-10
+5,10,2020-05-22,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,1,2019-07-29,OUTPUT,Foundation comb,3.55,combs no. 3-6+7
+4,2,2020-07-09,INPUT,Queen excluder,0.6,Bee emptier added
+2,2,2020-06-23,OUTPUT,Food comb,1.385,food comb no. 41 taken out and used in hive 3 to prevent starving
+5,7,2020-03-23,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,1,2019-06-18,OUTPUT,Honey,7.865,four frames
+4,12,2020-08-07,INPUT,Sucrose,0.7,Feeder
+1,6,2020-08-21,OUTPUT,Food comb,14.025,frame 1.7.8.9.10.15.16.36.37
+6,7,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+1,6,2020-08-13,OUTPUT,Honey,1.7,frame 19 with honey removed
+4,2,2020-09-01,INPUT,Sucrose,2.4,Feeder
+1,3,2020-08-31,OUTPUT,Food comb,6.16,frame 29
+5,11,2020-05-15,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+1,1,2020-08-21,OUTPUT,Food comb,0.71,frame 34 with honey and brood removed due to reduction
+4,6,2020-08-17,INPUT,Sucrose,2.4,Gave them bucket and super for feeding
+2,4,2020-07-28,OUTPUT,Honey,5.345,frame720nyny
+5,3,2019-03-10,OUTPUT,No input-output,195.0,Dead bees in the tray
+2,5,2020-06-22,OUTPUT,Foundation comb,9.77,frames no. 11
+3,5,2019-05-13,INPUT,Foundation comb,2.6,
+1,3,2020-08-13,OUTPUT,Food comb,13.02,frames removed due to reduction for winter. Frame no. 43
+5,8,2020-08-12,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,2,2020-08-17,OUTPUT,Honey,6.265,hive reduced to two supers with 13 frames+sucrose frames removed are 15
+4,1,2019-05-15,INPUT,Foundation comb,2.6,
+1,7,2020-06-18,OUTPUT,Honey,5.375,honey frames removed frame no 31 and 32
+6,8,2019-09-10,SAMPLE,,,Collect beebread and nectar samples
+2,4,2020-06-22,OUTPUT,Honey,7.045,honey frames removed
+4,3,2019-05-15,INPUT,Foundation comb,2.6,
+1,3,2020-06-18,OUTPUT,Honey,24.475,honey frames removed
+5,2,2020-08-12,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+1,6,2019-06-20,OUTPUT,Super + 10 frames,4.9,
+4,4,2019-05-15,INPUT,Foundation comb,2.6,
+1,4,2019-07-11,OUTPUT,Food comb,3.11,one super with frame 17-18-19-20 removed
+5,2,2019-04-16,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,5,2019-08-16,OUTPUT,Foundation comb,4.25,removed 10 combs no. 1
+4,5,2019-05-24,INPUT,Foundation comb,2.6,
+2,3,2019-08-28,OUTPUT,Foundation comb,0.27,removed frame 19
+5,11,2020-08-12,INPUT,Amitraz,2.0,Apply Apivar treatment- stripes
+2,7,2019-07-09,OUTPUT,Super + 10 frames,4.9,removed super with 10 combs
+3,4,2019-05-24,INPUT,Foundation comb,2.6,
+1,6,2019-08-20,OUTPUT,Super + 10 frames,4.9,removed super with 10 combs
+5,1,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+1,7,2019-08-20,OUTPUT,Super + 10 frames,4.9,removed super with 10 combs
+3,2,2019-05-24,INPUT,Foundation comb,2.6,
+2,4,2019-07-08,OUTPUT,Super + 10 frames,4.9,removed super with 10 combs (no. 31-40)nothing on them
+5,5,2020-03-23,INPUT,Brood comb,1.4,1 brood frame from colony 4
+2,4,2019-07-29,OUTPUT,Super + 10 frames,5.99,removed super with 10 combs no. 21-30
+3,1,2019-05-24,INPUT,Foundation comb,2.6,
+2,2,2019-08-14,OUTPUT,Super + 10 frames,5.855,removed super with 10 combs
+5,5,2019-03-10,OUTPUT,No input-output,48.0,Dead bees in the tray
+1,2,2019-08-20,OUTPUT,Super + 10 frames,4.9,removed super with 10 combs
+4,1,2019-06-11,INPUT,Queen excluder,0.8,
+2,3,2019-08-16,OUTPUT,Super + 10 frames,8.01,removed super with 10 combs+9 combs(no.1+7-11+17+18+20-30
+5,9,2020-02-04,INPUT,Food comb,0.91,1 comb frame with honey added
+1,5,2020-06-18,OUTPUT,Super + 10 frames,4.9,super + 10 frames (no 31-40) removed app. 5 kg
+4,3,2019-06-11,INPUT,Queen excluder,0.8,
+1,1,2019-08-19,OUTPUT,Super + 10 frames,4.9,super + 10 frames removed frame no. 4-9-11-16-20-27
+5,3,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+1,5,2019-07-11,OUTPUT,Super + 10 frames,4.9,super + combs removed
+4,5,2019-06-14,INPUT,Queen excluder,0.8,
+2,5,2020-06-03,OUTPUT,Super + 10 frames,4.9,super added + frames no. 31-40
+5,4,2020-02-04,INPUT,Food comb,2.27,2 comb frames with honey added
+1,7,2020-08-21,OUTPUT,Super + 10 frames,24.64,Super+frames 32
+3,4,2019-06-12,INPUT,Queen excluder,0.8,
+1,1,2020-04-22,SAMPLE,,,5 g honey and 2 g pollen + pollen for identification
+5,4,2020-03-23,OUTPUT,Brood comb,1.4,1 brood frame
+1,8,2019-10-11,SAMPLE,,,bee sample for varroa
+3,2,2019-06-28,INPUT,Queen excluder,0.8,
+1,2,2019-10-11,SAMPLE,,,bee sample for varroa
+5,7,2020-02-04,INPUT,Food comb,4.21,2 comb frames with honey added
+1,5,2019-10-11,SAMPLE,,,bee sample for varroa
+3,2,2019-08-20,INPUT,Sucrose,8.7,
+1,6,2019-10-11,SAMPLE,,,bee sample for varroa
+5,5,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+2,2,2020-09-23,SAMPLE,,,bee sample for varroa
+3,4,2019-08-20,INPUT,Sucrose,7.7,
+2,5,2020-09-23,SAMPLE,,,bee sample for varroa
+5,5,2020-02-04,INPUT,Food comb,4.34,3 comb frames with honey added
+2,9,2020-09-23,SAMPLE,,,bee sample for varroa
+4,2,2019-08-20,INPUT,Sucrose,4.4,
+2,1,2019-08-16,SAMPLE,,,bees for varroa and 9 by 9 comb for virus
+6,2,2019-03-09,OUTPUT,No input-output,109.0,Dead bees in the tray
+2,2,2020-07-09,SAMPLE,,,brood sample
+4,4,2019-08-20,INPUT,Sucrose,5.5,
+1,1,2020-07-08,SAMPLE,,,brood sample
+5,10,2019-08-30,INPUT,Food comb,2.2,3 comb frames with honey and beebread added
+2,8,2019-05-14,SAMPLE,,,brood sample for pestanalysis
+3,8,2019-08-20,INPUT,Sucrose,5.6,
+2,1,2020-07-09,SAMPLE,,,brood sample for pestanalysis
+5,7,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+2,8,2020-07-09,SAMPLE,,,brood sample for pestanalysis
+3,2,2019-08-11,INPUT,Sucrose,15.5,
+1,3,2020-07-08,SAMPLE,,,brood sample for pestanalysis
+6,2,2019-07-15,INPUT,Food comb,20.3,Add honey supper with honey left from extraction
+1,6,2020-07-08,SAMPLE,,,brood sample for pestanalysis
+3,4,2019-08-11,INPUT,Sucrose,14.6,
+1,7,2020-07-08,SAMPLE,,,brood sample for pestanalysis
+6,16,2020-04-26,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+2,3,2020-07-09,SAMPLE,,,brood sample
+4,1,2019-08-12,INPUT,Sucrose,14.4,
+2,1,2020-06-22,SAMPLE,,,honey sample for pesticide analysis
+6,3,2019-07-15,INPUT,Food comb,20.2,Add honey supper with honey left from extraction
+2,5,2020-08-17,SAMPLE,,,honey sample for pesticide analysis
+4,3,2019-08-12,INPUT,Sucrose,17.7,
+2,7,2020-06-23,SAMPLE,,,honey sample for pesticide analysis
+5,9,2019-06-08,SAMPLE,,,Collect beebread and nectar samples
+2,8,2020-06-23,SAMPLE,,,honey sample for pesticide analysis
+4,5,2019-08-12,INPUT,Sucrose,14.4,
+2,9,2020-06-23,SAMPLE,,,honey sample for pesticide analysis
+5,10,2019-09-27,INPUT,Food comb,3.0,2 comb frames with honey added
+1,3,2020-04-24,SAMPLE,,,honey sample for pesticide analysis
+4,1,2019-09-26,INPUT,Sucrose,9.3,
+1,5,2020-06-18,SAMPLE,,,honey sample for pesticide analysis
+5,4,2020-08-24,OUTPUT,No input-output,0.3,feeder
+1,6,2020-04-24,SAMPLE,,,honey sample for pesticide analysis
+4,3,2019-09-26,INPUT,Sucrose,6.7,
+1,6,2020-08-13,SAMPLE,,,honey sample for pesticide analysis
+5,4,2020-03-23,INPUT,Foundation comb,0.5,1 frame of foundation added
+1,1,2020-08-13,SAMPLE,,,honey sample for pesticide analysis
+4,5,2019-09-26,INPUT,Sucrose,4.2,
+1,3,2020-08-13,SAMPLE,,,honey sample for pesticide analysis
+6,1,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+1,7,2020-06-18,SAMPLE,,,honey sample for pesticide analysis
+4,11,2020-05-03,INPUT,Super + 10 frames,5.0,
+1,8,2020-06-18,SAMPLE,,,honey sample for pesticide analysis
+6,14,2020-06-23,INPUT,Foundation comb,0.5,1 frame of foundation added
+2,4,2020-08-17,SAMPLE,,,ingen honning - der var intet
+4,6,2020-05-03,INPUT,Super + 10 frames,5.0,
+1,5,2020-09-23,SAMPLE,,,live bees
+5,8,2019-05-14,OUTPUT,Brood comb,1.0,Brood comb from colony 8 to colony 2
+1,7,2020-09-23,SAMPLE,,,live bees
+4,12,2020-05-20,INPUT,Super + 10 frames,5.0,
+2,6,2019-06-19,SAMPLE,,,no sample due to lack of pollen and honey
+5,9,2019-05-14,INPUT,Foundation comb,0.5,1 frame of foundation added
+2,1,2020-07-28,SAMPLE,,,pollen from comb for ID
+4,1,2020-06-03,INPUT,Super + 10 frames,5.0,
+2,2,2020-07-09,SAMPLE,,,pollen from comb for ID
+6,3,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+2,1,2020-08-18,SAMPLE,,,pollen from comb for ID
+4,6,2020-06-08,INPUT,Queen excluder,1.0,
+2,4,2020-07-09,SAMPLE,,,pollen from comb for ID
+6,10,2019-06-27,INPUT,Live bees,1.0,New queen from queen breeder
+2,5,2020-07-09,SAMPLE,,,pollen from comb for ID
+4,11,2020-06-08,INPUT,Queen excluder,1.0,
+2,5,2020-08-18,SAMPLE,,,pollen from comb for ID
+5,3,2020-08-24,OUTPUT,No input-output,0.3,feeder
+2,7,2020-07-09,SAMPLE,,,pollen from comb for ID
+4,1,2020-07-09,INPUT,Super + 10 frames,4.8,
+2,7,2020-09-03,SAMPLE,,,pollen from comb for ID
+6,19,2020-08-12,INPUT,Live bees,1.0,New queen from queen breeder
+2,8,2020-09-03,SAMPLE,,,pollen from comb for ID
+4,2,2020-08-24,INPUT,Thymol,1.0,
+2,9,2020-09-03,SAMPLE,,,pollen from comb for ID
+6,5,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+1,1,2020-07-08,SAMPLE,,,pollen from comb for ID
+4,11,2020-08-24,INPUT,Thymol,1.0,
+1,3,2020-07-08,SAMPLE,,,pollen from comb for ID
+6,18,2020-06-05,INPUT,Live bees,1.0,New queen from queen breeder
+1,3,2020-09-04,SAMPLE,,,pollen from comb for ID
+4,2,2020-09-09,INPUT,Thymol,1.0,
+1,5,2020-07-08,SAMPLE,,,pollen from comb for ID
+5,4,2019-04-16,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+1,5,2020-09-04,SAMPLE,,,pollen from comb for ID
+4,6,2020-09-09,INPUT,Thymol,1.0,
+1,6,2020-07-08,SAMPLE,,,pollen from comb for ID
+6,12,2020-04-08,INPUT,No input-output,2.3,Box for activity videos
+1,7,2020-04-22,SAMPLE,,,pollen from comb for ID
+4,12,2020-09-09,INPUT,Thymol,1.0,
+1,7,2020-07-08,SAMPLE,,,pollen from comb for ID
+6,7,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+1,8,2020-04-24,SAMPLE,,,pollen from comb for ID
+4,12,2020-09-21,INPUT,Queen excluder,0.1,Removed bee emptier
+1,8,2020-07-27,SAMPLE,,,pollen from comb for ID
+5,4,2020-03-23,INPUT,No input-output,2.3,Box for activity videos
+2,1,2020-04-28,SAMPLE,,,pollen sample for pesticide analysis
+3,3,2020-05-14,OTHER,,,Excluded from experiment
+2,5,2020-06-22,SAMPLE,,,pollen sample for pesticide analysis
+5,8,2020-08-24,OUTPUT,No input-output,0.3,feeder
+2,7,2020-04-28,SAMPLE,,,pollen sample for pesticide analysis
+4,5,2020-05-14,OTHER,,,Excluded from experiment
+2,8,2020-04-28,SAMPLE,,,pollen sample for pesticide analysis
+6,1,2019-09-26,INPUT,No input-output,6.9,Empty box for treatment
+2,9,2020-04-28,SAMPLE,,,pollen sample for pesticide analysis
+3,2,2020-04-25,OTHER,,,Moved to Krankerup
+1,1,2020-06-19,SAMPLE,,,pollen sample for pesticide analysis
+6,9,2019-06-06,SAMPLE,,,Collect beebread and nectar samples
+1,5,2020-04-24,SAMPLE,,,pollen sample for pesticide analysis
+3,1,2019-08-29,OTHER,,,Unmated queen seen in bee hive
+1,5,2020-08-13,SAMPLE,,,pollen sample for pesticide analysis
+6,3,2019-09-26,INPUT,No input-output,6.5,Empty box for treatment
+1,6,2020-06-18,SAMPLE,,,pollen sample for pesticide analysis
+4,4,2019-04-26,OUTPUT,Brood comb,0.16,
+1,7,2020-04-22,SAMPLE,,,pollen sample for pesticide analysis
+5,9,2020-02-04,OUTPUT,Foundation comb,0.38,1 comb frame
+1,3,2020-06-18,SAMPLE,,,pollen sample for pesticide analysis
+4,2,2019-06-11,OUTPUT,Brood comb,0.095,
+1,7,2020-08-13,SAMPLE,,,pollen sample for pesticide analysis
+6,5,2019-09-26,INPUT,No input-output,6.3,Empty box for treatment
+1,8,2020-04-24,SAMPLE,,,pollen sample for pesticide analysis
+3,1,2019-06-12,OUTPUT,Brood comb,0.231,
+1,8,2020-08-13,SAMPLE,,,pollen sample for pesticide analysis
+5,1,2019-09-12,SAMPLE,,300.0,Collect bees for disease analysis
+2,8,2019-07-09,SAMPLE,,,pollen trapped for ID
+3,4,2019-06-12,OUTPUT,Brood comb,0.116,
+1,1,2019-08-09,SAMPLE,,,sample for pests
+5,2,2019-09-13,INPUT,No input-output,4.8,Empty box for treatment
+2,3,2019-08-16,SAMPLE,,,sample for pests
+4,2,2019-06-26,OUTPUT,Brood comb,0.158,
+1,5,2019-06-24,SAMPLE,,,sample of honey and pollen in relation to the pesticide experiment
+5,7,2020-08-24,OUTPUT,No input-output,0.3,feeder
+1,7,2019-05-15,SAMPLE,,,sample to test for virus
+4,1,2019-07-15,OUTPUT,Brood comb,0.18,
+2,1,2019-08-08,SAMPLE,,,samples taken 9x9 cm brood for virus
+5,4,2019-09-13,INPUT,No input-output,4.1,Empty box for treatment
+1,3,2019-05-15,SAMPLE,,,test for diseases
+6,5,2019-09-26,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+6,6,2019-09-26,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+6,8,2019-09-26,INPUT,Thymol,1.0,Apply Apiguard- treatment tray
+6,13,2020-04-26,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+6,18,2020-04-26,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+6,15,2020-09-18,OUTPUT,Amitraz,2.0,Remove treatment (Apivar)- stripes
+5,8,2020-02-04,OUTPUT,Foundation comb,1.76,3 comb frames
+5,4,2019-10-11,OUTPUT,No input-output,4.1,Remove extra box from treatment
+4,1,2019-04-26,CLINICAL SIGNS,,,
+5,7,2019-10-11,INPUT,Sucrose,1.0,Sugar paste
+1,7,2020-06-02,CLINICAL SIGNS,,,a cluster of eggs laid on the side of the cellwall

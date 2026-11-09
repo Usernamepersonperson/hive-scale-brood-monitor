@@ -1,0 +1,253 @@
+{
+ "cohort": {
+  "hive_years": 48,
+  "seed": 7,
+  "stations": [
+   "SMA",
+   "BER",
+   "ENG"
+  ],
+  "years": [
+   2023,
+   2024
+  ],
+  "swarms": 23
+ },
+ "swarm_sim": {
+  "n_hive_seasons": 48,
+  "n_swarms": 23,
+  "tp": 21,
+  "fn": 2,
+  "fp": 4,
+  "precision": 0.84,
+  "recall": 0.9130434782608695,
+  "delay_median_min": 15.0,
+  "delay_p90_min": 30.0,
+  "false_alerts_per_hive_season": 0.08333333333333333,
+  "missed_swarm_sizes_kg": [
+   1.01,
+   1.61
+  ],
+  "false_alert_causes": {
+   "inspection": 3,
+   "robbing": 1
+  }
+ },
+ "sensor": {
+  "p90_abs_error_raw_kg": 0.18376215983513955,
+  "p90_abs_error_compensated_kg": 0.19063015655793247,
+  "median_abs_error_raw_kg": 0.06031938943966164,
+  "median_abs_error_compensated_kg": 0.05722617360532922
+ },
+ "decomposition": {
+  "mae_nectar_kg_day": 0.2376698881124748,
+  "mae_consumption_kg_day": 0.15721256036064005,
+  "mae_evaporation_kg_day": 0.18189797713833994,
+  "mae_nectar_flow_days_kg_day": 0.6026655429932019,
+  "nectar_corr": 0.9114226242628638,
+  "mean_true_nectar_kg_day": 0.534911074923743
+ },
+ "harvest": {
+  "day_accuracy": 0.853724128540305,
+  "precision": 0.8292682926829268,
+  "recall": 0.6151648613260327,
+  "flagged_days": 6232,
+  "premature_flag_share": 0.04813863928112965
+ },
+ "reserve_sim": {
+  "n_forecasts": 168,
+  "horizon_days": 30,
+  "mae_kg": 0.7367100187017902,
+  "bias_kg": 0.11151422738512136,
+  "by_origin": {
+   "01-15": {
+    "n": 48,
+    "mae_kg": 0.611,
+    "bias_kg": -0.175
+   },
+   "02-15": {
+    "n": 48,
+    "mae_kg": 0.65,
+    "bias_kg": 0.355
+   },
+   "03-01": {
+    "n": 24,
+    "mae_kg": 1.375,
+    "bias_kg": 0.556
+   },
+   "11-15": {
+    "n": 48,
+    "mae_kg": 0.631,
+    "bias_kg": -0.067
+   }
+  }
+ },
+ "brood_sim": {
+  "day_accuracy": 0.8710670314637483,
+  "precision": 1.0,
+  "recall": 0.810091512047687,
+  "queenless_hives": 6,
+  "queenless_alerted": 6,
+  "queenless_delay_median_days": 21.0,
+  "break_alerts_per_other_hive_year": 0.0
+ },
+ "tilt": {
+  "events": 6,
+  "detected": 6,
+  "recall": 1.0,
+  "kind_correct": 6,
+  "false_alarms": 3,
+  "false_alarms_per_hive_year": 0.0625,
+  "delay_median_min": 0.0
+ },
+ "robbing": {
+  "events": 4,
+  "detected": 1,
+  "recall": 0.25,
+  "false_alerts": 0,
+  "false_alerts_per_hive_year": 0.0
+ },
+ "alerts": {
+  "swarm_alerts_per_hive_season": 0.5208333333333334,
+  "tilt_theft_alerts_per_hive_season": 0.16666666666666666,
+  "total_per_hive_season": 0.6875
+ },
+ "swarm_real": {
+  "n_hives": 54,
+  "hive_seasons_approx": 60,
+  "logged_swarms": 2,
+  "logged_swarms_detected": 2,
+  "swarm_hits": [
+   {
+    "date": "2019-04-28 00:00:00",
+    "site": 5,
+    "hive": 2,
+    "detected": true,
+    "drop_kg": 3.0,
+    "alert_time": "2019-04-28 06:00:00"
+   },
+   {
+    "date": "2019-04-20 00:00:00",
+    "site": 5,
+    "hive": 2,
+    "detected": true,
+    "drop_kg": 2.5,
+    "alert_time": "2019-04-20 13:00:00"
+   }
+  ],
+  "alerts_total": 674,
+  "alerts_not_on_logged_handling_day": 564,
+  "alerts_per_hive_season_not_on_handling_day": 9.4
+ },
+ "reserve_real": {
+  "n_forecasts": 13,
+  "n_hives": 10,
+  "horizon_days": 30,
+  "mae_kg": 2.5823126873126876,
+  "bias_kg": -0.21132367632367668,
+  "median_actual_rate_g_day": 59.999999999999964,
+  "median_forecast_rate_g_day": 39.99999999999986
+ },
+ "brood_real_unlabelled": {
+  "A1": {
+   "days": 22,
+   "median_daily_mean_c": 34.56034982174688,
+   "median_daily_std_c": 0.25399799019454117,
+   "share_days_in_34_35_5": 0.7727272727272727,
+   "share_days_flagged_brood": 1.0,
+   "corr_brood_vs_ambient": 0.6844161889620394
+  },
+  "A2": {
+   "days": 49,
+   "median_daily_mean_c": 36.15652173913044,
+   "median_daily_std_c": 0.14493626617846825,
+   "share_days_in_34_35_5": 0.0,
+   "share_days_flagged_brood": 0.7959183673469388,
+   "corr_brood_vs_ambient": -0.05171808765439852
+  }
+ },
+ "battery": [
+  {
+   "interval_min": 15,
+   "sf": 7,
+   "airtime_ms": 66.816,
+   "avg_ma": 0.035424984188493144,
+   "life_days": 2822.8664681375444,
+   "life_years": 7.733880734623409
+  },
+  {
+   "interval_min": 15,
+   "sf": 9,
+   "airtime_ms": 226.30399999999997,
+   "avg_ma": 0.04322004879293759,
+   "life_days": 2313.741025122132,
+   "life_years": 6.339016507183924
+  },
+  {
+   "interval_min": 15,
+   "sf": 12,
+   "airtime_ms": 1646.5919999999999,
+   "avg_ma": 0.11263741384182648,
+   "life_days": 887.8044744566592,
+   "life_years": 2.4323410259086553
+  },
+  {
+   "interval_min": 60,
+   "sf": 7,
+   "airtime_ms": 66.816,
+   "avg_ma": 0.02299323234849315,
+   "life_days": 4349.1057927118045,
+   "life_years": 11.915358336196725
+  },
+  {
+   "interval_min": 60,
+   "sf": 9,
+   "airtime_ms": 226.30399999999997,
+   "avg_ma": 0.02494199849960426,
+   "life_days": 4009.3018208459375,
+   "life_years": 10.984388550262842
+  },
+  {
+   "interval_min": 60,
+   "sf": 12,
+   "airtime_ms": 1646.5919999999999,
+   "avg_ma": 0.04229633976182648,
+   "life_days": 2364.2707752752767,
+   "life_years": 6.477454178836375
+  }
+ ],
+ "acoustics_queen": {
+  "mean_window_bacc": 0.26798592032967034,
+  "mean_file_acc": 0.25,
+  "per_direction": [
+   {
+    "train_hive": "H1",
+    "test_hive": "H3",
+    "feature": "b700_1200",
+    "threshold": 0.058780000000000006,
+    "sign": 1,
+    "train_bacc": 0.8385416666666667,
+    "window_bacc": 0.3108974358974359,
+    "tpr": 0.5833333333333334,
+    "tnr": 0.038461538461538436,
+    "file_acc": 0.25,
+    "n_windows": 112,
+    "n_files": 4
+   },
+   {
+    "train_hive": "H3",
+    "test_hive": "H1",
+    "feature": "b200_300",
+    "threshold": 0.161886,
+    "sign": 1,
+    "train_bacc": 0.8814102564102564,
+    "window_bacc": 0.22507440476190477,
+    "tpr": 0.30952380952380953,
+    "tnr": 0.140625,
+    "file_acc": 0.25,
+    "n_windows": 106,
+    "n_files": 4
+   }
+  ]
+ }
+}

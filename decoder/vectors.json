@@ -1,0 +1,53 @@
+[
+ {
+  "hex": "1012d90d80fec07b0707bbc8ff77",
+  "decoded": {
+   "alarm": false,
+   "low_battery": false,
+   "service": false,
+   "weight_kg": 48.25,
+   "t_brood_c": 34.56,
+   "t_amb_c": -3.2,
+   "rh_pct": 61.5,
+   "tilt_deg": 7.0,
+   "shock_g": 0.35,
+   "battery_v": 3.87,
+   "counter": 200,
+   "delta30_kg": -1.37
+  }
+ },
+ {
+  "hex": "1100000d80f7fe7b0707bbc800c8",
+  "decoded": {
+   "alarm": true,
+   "low_battery": false,
+   "service": false,
+   "weight_kg": 0.0,
+   "t_brood_c": 34.56,
+   "t_amb_c": -20.5,
+   "rh_pct": 61.5,
+   "tilt_deg": 7.0,
+   "shock_g": 0.35,
+   "battery_v": 3.87,
+   "counter": 200,
+   "delta30_kg": 2.0
+  }
+ },
+ {
+  "hex": "122ee10d80fec07b070764ffff77",
+  "decoded": {
+   "alarm": false,
+   "low_battery": true,
+   "service": false,
+   "weight_kg": 120.01,
+   "t_brood_c": 34.56,
+   "t_amb_c": -3.2,
+   "rh_pct": 61.5,
+   "tilt_deg": 7.0,
+   "shock_g": 0.35,
+   "battery_v": 3.0,
+   "counter": 255,
+   "delta30_kg": -1.37
+  }
+ }
+]

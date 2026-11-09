@@ -1,0 +1,13 @@
+{
+  "claim": "Open-source hive scale and brood monitor: swarm, nectar-flow and winter-stores alerts.",
+  "data_label": "simulated hives on MeteoSwiss weather + real open hive-scale data (Zenodo, CC BY 4.0)",
+  "stats": [
+    ["15 min", "median swarm alert delay (simulated)", "accent"],
+    ["2 of 2", "real logged swarms alerted", "green"],
+    ["0.74 kg", "30-day weight forecast error (sim.)", "amber"]
+  ],
+  "limit": "No Swiss hive was measured; the sound-based queen check failed across hives and is not shipped.",
+  "alt": "Dark chart of one simulated hive's weight from March to October on real Swiss weather. Green bands mark nectar-flow days, a red dot marks a detected swarm drop of 2.3 kg in June, and an inset zooms in on the swarm day. A honey harvest drops the weight in July.",
+  "hashtags": ["#Bienen", "#Imkerei", "#SmartHive", "#IoT", "#Biodiversitaet"],
+  "post": "A swarm leaves a hive in about twenty minutes, and most beekeepers find out hours later, if at all.\n\nI built hive-scale-brood-monitor, an open-source node and analytics package for exactly this: hive weight, brood-nest temperature, humidity and a tilt sensor in a 14-byte LoRaWAN-sized payload with a JavaScript decoder. On the analytics side it splits each day's weight change into nectar intake, consumption and evaporation, flags swarm drops, estimates honey readiness and how many days of winter stores are left, and infers brood from how stable the nest temperature is.\n\nAbout 17,500 Swiss beekeepers keep roughly 165,000 colonies (Agroscope), so this is a small but real audience.\n\nMeasured: on 48 simulated hive-years driven by real MeteoSwiss weather, the swarm alert reached 0.91 recall at 0.84 precision with a median delay of 15 minutes. On real open hive-scale data from 54 colonies in Denmark and Portugal it alerted on both beekeeper-logged swarms. A straight-line 30-day weight forecast was off by 0.74 kg in simulation and 2.6 kg on the real data.\n\nWhat is not verified: no Swiss hive was measured, the simulator is my own model, and a simple sound feature for queen loss did not transfer between hives, so I left it out.\n\nBeekeepers: which would you trust more, a swarm alert on your phone or a daily weight chart?\n\nCode: https://github.com/Usernamepersonperson/hive-scale-brood-monitor"
+}
