@@ -94,4 +94,4 @@ Details and the data set that was left out for licence reasons: [docs/DATA.md](d
 
 ## Licence
 
-MIT, Copyright (c) 2026 Victor Bonilla. Data sets keep their own licences (see above).
+MIT, Copyright (c) 2026 VB-Builds. Data sets keep their own licences (see above).
